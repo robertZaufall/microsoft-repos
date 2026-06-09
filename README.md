@@ -13,7 +13,7 @@ Included repositories match this filter:
 
 The page is tuned to surface repositories with both recent traction and broad
 audience: the lead table blends recent commits, freshness, stars, and forks,
-while each technology cluster is sorted by stars.
+while each technology cluster shows every qualifying repository sorted by stars.
 
 ## Open locally
 

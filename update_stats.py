@@ -37,7 +37,7 @@ from urllib.request import Request, urlopen
 
 ORG = "microsoft"
 MIN_STARS = 201
-TOP_PER_CLUSTER = 25
+TOP_PER_CLUSTER = 0
 TRACTION_DAYS = 30
 HISTORY_DAYS = 140
 GITHUB_API = "https://api.github.com"
@@ -273,7 +273,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--history", default="stats_history.json", help="history JSON file")
     parser.add_argument("--org", default=ORG, help="GitHub organization")
     parser.add_argument("--min-stars", type=int, default=MIN_STARS, help="minimum stars")
-    parser.add_argument("--top-per-cluster", type=int, default=TOP_PER_CLUSTER)
+    parser.add_argument("--top-per-cluster", type=int, default=TOP_PER_CLUSTER, help="cluster row limit; 0 shows all")
     parser.add_argument("--traction-days", type=int, default=TRACTION_DAYS)
     parser.add_argument("--months", type=int, default=3, help="recency window in calendar months")
     parser.add_argument("--skip-commit-counts", action="store_true", help="skip per-repo commit counts")
@@ -670,7 +670,8 @@ def grouped_repos(repos: list[dict[str, Any]], top_n: int) -> dict[str, list[dic
         groups[repo["cluster_key"]].append(repo)
     for key in groups:
         groups[key].sort(key=lambda repo: repo["stars"], reverse=True)
-        groups[key] = groups[key][:top_n]
+        if top_n > 0:
+            groups[key] = groups[key][:top_n]
     return groups
 
 
@@ -794,12 +795,13 @@ def github_cell(repo: dict[str, Any], include_activity: bool = False) -> str:
 
 def section_table(cluster: Cluster, repos: list[dict[str, Any]], top_n: int) -> str:
     rows = "\n".join(repo_row(repo) for repo in repos)
+    scope = f"Showing up to {top_n} repositories by stars." if top_n > 0 else "Showing all qualifying repositories in this cluster by stars."
     return f"""
 <section class="repo-section" id="cluster-{cluster.key}" data-section>
   <div class="section-header">
     <div>
       <h2><span class="section-mark section-mark-{cluster.accent}"></span>{escape(cluster.name)}</h2>
-      <p>{escape(cluster.summary)} Showing up to {top_n} repositories by stars.</p>
+      <p>{escape(cluster.summary)} {escape(scope)}</p>
     </div>
     <span class="count-pill">{len(repos)} repos</span>
   </div>

@@ -52,7 +52,7 @@ The page contains seven rough technology clusters:
 6. Windows, Desktop & Devices
 7. Security, Identity & Compliance
 
-Each cluster table shows up to the top 25 repositories by stars.
+Each cluster table shows every qualifying repository in that cluster by stars.
 
 The first table is the traction table. It shows the top 25 repositories ranked
 by recent commit activity, freshness, stars, and forks. Once a 30-day history

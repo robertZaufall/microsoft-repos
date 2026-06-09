@@ -48395,13 +48395,13 @@
       "repos": {
         "microsoft/AI-Engineering-Coach": {
           "forks": 262,
-          "pushed_at": "2026-06-07T18:42:07Z",
-          "stars": 1933
+          "pushed_at": "2026-06-08T19:16:00Z",
+          "stars": 1938
         },
         "microsoft/AI-For-Beginners": {
-          "forks": 9934,
+          "forks": 9937,
           "pushed_at": "2026-05-09T00:28:43Z",
-          "stars": 48009
+          "stars": 48014
         },
         "microsoft/AIOpsLab": {
           "forks": 160,
@@ -48415,7 +48415,7 @@
         },
         "microsoft/AL-Go": {
           "forks": 197,
-          "pushed_at": "2026-06-04T00:04:19Z",
+          "pushed_at": "2026-06-08T15:45:31Z",
           "stars": 478
         },
         "microsoft/ALAppExtensions": {
@@ -48426,7 +48426,7 @@
         "microsoft/ARI": {
           "forks": 508,
           "pushed_at": "2026-06-02T12:31:49Z",
-          "stars": 1634
+          "stars": 1635
         },
         "microsoft/AdaptiveCards": {
           "forks": 595,
@@ -48439,14 +48439,14 @@
           "stars": 299
         },
         "microsoft/Agents": {
-          "forks": 308,
+          "forks": 311,
           "pushed_at": "2026-06-05T23:21:33Z",
-          "stars": 947
+          "stars": 950
         },
         "microsoft/AirSim": {
           "forks": 4904,
           "pushed_at": "2026-03-15T23:17:10Z",
-          "stars": 18223
+          "stars": 18224
         },
         "microsoft/Analysis-Services": {
           "forks": 430,
@@ -48499,14 +48499,14 @@
           "stars": 442
         },
         "microsoft/AzureTRE": {
-          "forks": 183,
+          "forks": 182,
           "pushed_at": "2026-06-06T17:39:39Z",
           "stars": 232
         },
         "microsoft/BCApps": {
-          "forks": 380,
-          "pushed_at": "2026-06-08T07:46:14Z",
-          "stars": 593
+          "forks": 381,
+          "pushed_at": "2026-06-08T21:45:54Z",
+          "stars": 594
         },
         "microsoft/BCTech": {
           "forks": 382,
@@ -48519,19 +48519,19 @@
           "stars": 1013
         },
         "microsoft/BitNet": {
-          "forks": 3589,
+          "forks": 3588,
           "pushed_at": "2026-03-10T07:49:47Z",
-          "stars": 39249
+          "stars": 39254
         },
         "microsoft/BotFramework-WebChat": {
-          "forks": 1604,
-          "pushed_at": "2026-06-03T19:10:27Z",
+          "forks": 1603,
+          "pushed_at": "2026-06-08T18:14:42Z",
           "stars": 1776
         },
         "microsoft/Build-CLI": {
-          "forks": 74,
+          "forks": 75,
           "pushed_at": "2026-06-03T09:12:29Z",
-          "stars": 258
+          "stars": 259
         },
         "microsoft/Build-your-own-copilot-Solution-Accelerator": {
           "forks": 181,
@@ -48550,12 +48550,12 @@
         },
         "microsoft/CCF": {
           "forks": 253,
-          "pushed_at": "2026-06-08T07:28:00Z",
-          "stars": 865
+          "pushed_at": "2026-06-08T20:10:19Z",
+          "stars": 866
         },
         "microsoft/CSS-Exchange": {
           "forks": 391,
-          "pushed_at": "2026-06-05T20:04:39Z",
+          "pushed_at": "2026-06-08T19:03:00Z",
           "stars": 1284
         },
         "microsoft/CSS_SQL_Networking_Tools": {
@@ -48565,13 +48565,13 @@
         },
         "microsoft/Conversation-Knowledge-Mining-Solution-Accelerator": {
           "forks": 263,
-          "pushed_at": "2026-06-08T05:48:01Z",
+          "pushed_at": "2026-06-08T13:49:14Z",
           "stars": 452
         },
         "microsoft/CopilotStudioSamples": {
           "forks": 475,
           "pushed_at": "2026-05-28T08:49:56Z",
-          "stars": 750
+          "stars": 752
         },
         "microsoft/CsWin32": {
           "forks": 122,
@@ -48580,7 +48580,7 @@
         },
         "microsoft/CsWinRT": {
           "forks": 125,
-          "pushed_at": "2026-06-08T04:07:10Z",
+          "pushed_at": "2026-06-08T20:08:33Z",
           "stars": 653
         },
         "microsoft/CyberBattleSim": {
@@ -48595,7 +48595,7 @@
         },
         "microsoft/D3D12TranslationLayer": {
           "forks": 52,
-          "pushed_at": "2026-06-07T07:56:14Z",
+          "pushed_at": "2026-06-08T18:14:19Z",
           "stars": 354
         },
         "microsoft/D3D9On12": {
@@ -48614,14 +48614,14 @@
           "stars": 448
         },
         "microsoft/Data-Science-For-Beginners": {
-          "forks": 7238,
+          "forks": 7239,
           "pushed_at": "2026-06-03T21:48:11Z",
-          "stars": 35563
+          "stars": 35566
         },
         "microsoft/DataConnectors": {
           "forks": 375,
           "pushed_at": "2026-04-28T14:21:48Z",
-          "stars": 782
+          "stars": 781
         },
         "microsoft/DebugMCP": {
           "forks": 33,
@@ -48630,18 +48630,18 @@
         },
         "microsoft/DefinitelyTyped-tools": {
           "forks": 232,
-          "pushed_at": "2026-06-04T00:54:56Z",
+          "pushed_at": "2026-06-08T17:39:40Z",
           "stars": 414
         },
         "microsoft/Deploy-Your-AI-Application-In-Production": {
           "forks": 163,
-          "pushed_at": "2026-06-05T06:23:12Z",
+          "pushed_at": "2026-06-08T13:16:35Z",
           "stars": 216
         },
         "microsoft/Detours": {
           "forks": 1153,
           "pushed_at": "2026-05-22T23:48:33Z",
-          "stars": 6281
+          "stars": 6283
         },
         "microsoft/DevSkim": {
           "forks": 125,
@@ -48651,12 +48651,12 @@
         "microsoft/DirectML": {
           "forks": 334,
           "pushed_at": "2026-04-27T23:43:38Z",
-          "stars": 2558
+          "stars": 2561
         },
         "microsoft/DirectStorage": {
-          "forks": 102,
+          "forks": 103,
           "pushed_at": "2026-06-04T22:03:17Z",
-          "stars": 864
+          "stars": 863
         },
         "microsoft/DirectX-Graphics-Samples": {
           "forks": 2161,
@@ -48685,17 +48685,17 @@
         },
         "microsoft/DirectXShaderCompiler": {
           "forks": 878,
-          "pushed_at": "2026-06-05T01:59:55Z",
+          "pushed_at": "2026-06-08T18:54:28Z",
           "stars": 3582
         },
         "microsoft/DirectXTK": {
           "forks": 531,
-          "pushed_at": "2026-06-06T20:53:37Z",
-          "stars": 2815
+          "pushed_at": "2026-06-08T19:32:13Z",
+          "stars": 2816
         },
         "microsoft/DirectXTK12": {
           "forks": 465,
-          "pushed_at": "2026-06-06T20:37:11Z",
+          "pushed_at": "2026-06-08T17:42:14Z",
           "stars": 1725
         },
         "microsoft/DirectXTex": {
@@ -48704,9 +48704,9 @@
           "stars": 2109
         },
         "microsoft/DiskANN": {
-          "forks": 423,
-          "pushed_at": "2026-06-06T21:43:02Z",
-          "stars": 1836
+          "forks": 424,
+          "pushed_at": "2026-06-08T22:11:36Z",
+          "stars": 1838
         },
         "microsoft/Document-Knowledge-Mining-Solution-Accelerator": {
           "forks": 118,
@@ -48719,9 +48719,9 @@
           "stars": 471
         },
         "microsoft/EventLogExpert": {
-          "forks": 45,
-          "pushed_at": "2026-06-07T19:50:17Z",
-          "stars": 519
+          "forks": 46,
+          "pushed_at": "2026-06-08T16:34:22Z",
+          "stars": 520
         },
         "microsoft/Extensible-Storage-Engine": {
           "forks": 62,
@@ -48740,7 +48740,7 @@
         },
         "microsoft/FastTrack": {
           "forks": 123,
-          "pushed_at": "2026-06-08T07:33:39Z",
+          "pushed_at": "2026-06-08T08:35:55Z",
           "stars": 216
         },
         "microsoft/FeatureManagement-Dotnet": {
@@ -48760,7 +48760,7 @@
         },
         "microsoft/FluidFramework": {
           "forks": 577,
-          "pushed_at": "2026-06-06T06:18:03Z",
+          "pushed_at": "2026-06-08T22:10:35Z",
           "stars": 4927
         },
         "microsoft/Forge": {
@@ -48770,18 +48770,18 @@
         },
         "microsoft/Foundry-Local": {
           "forks": 323,
-          "pushed_at": "2026-06-05T19:18:13Z",
-          "stars": 2349
+          "pushed_at": "2026-06-08T21:08:30Z",
+          "stars": 2352
         },
         "microsoft/GDK": {
-          "forks": 124,
+          "forks": 125,
           "pushed_at": "2026-05-20T21:28:04Z",
-          "stars": 1664
+          "stars": 1668
         },
         "microsoft/GSL": {
           "forks": 766,
           "pushed_at": "2026-06-05T12:45:11Z",
-          "stars": 6689
+          "stars": 6690
         },
         "microsoft/GUI-Actor": {
           "forks": 51,
@@ -48799,14 +48799,14 @@
           "stars": 425
         },
         "microsoft/GitHub-Copilot-for-Azure": {
-          "forks": 169,
-          "pushed_at": "2026-06-08T07:49:44Z",
-          "stars": 215
+          "forks": 170,
+          "pushed_at": "2026-06-08T21:24:43Z",
+          "stars": 216
         },
         "microsoft/GlobalMLBuildingFootprints": {
-          "forks": 266,
+          "forks": 268,
           "pushed_at": "2026-03-11T02:52:28Z",
-          "stars": 1883
+          "stars": 1884
         },
         "microsoft/HydraLab": {
           "forks": 104,
@@ -48819,9 +48819,9 @@
           "stars": 519
         },
         "microsoft/IoT-For-Beginners": {
-          "forks": 2871,
+          "forks": 2873,
           "pushed_at": "2026-05-26T21:50:02Z",
-          "stars": 16946
+          "stars": 16945
         },
         "microsoft/KBLaM": {
           "forks": 121,
@@ -48830,23 +48830,23 @@
         },
         "microsoft/Kusto-Query-Language": {
           "forks": 120,
-          "pushed_at": "2026-05-13T17:46:44Z",
+          "pushed_at": "2026-06-08T16:27:46Z",
           "stars": 664
         },
         "microsoft/LLMLingua": {
-          "forks": 386,
+          "forks": 387,
           "pushed_at": "2026-04-08T18:59:13Z",
-          "stars": 6261
+          "stars": 6263
         },
         "microsoft/LMOps": {
           "forks": 373,
           "pushed_at": "2026-06-04T01:38:38Z",
-          "stars": 4405
+          "stars": 4406
         },
         "microsoft/LangChain4j-for-Beginners": {
           "forks": 141,
           "pushed_at": "2026-06-06T18:49:25Z",
-          "stars": 365
+          "stars": 367
         },
         "microsoft/Lens": {
           "forks": 16,
@@ -48864,19 +48864,19 @@
           "stars": 375
         },
         "microsoft/MIDI": {
-          "forks": 63,
-          "pushed_at": "2026-06-07T04:38:50Z",
+          "forks": 64,
+          "pushed_at": "2026-06-08T15:21:02Z",
           "stars": 649
         },
         "microsoft/MIEngine": {
           "forks": 225,
-          "pushed_at": "2026-06-06T23:22:21Z",
+          "pushed_at": "2026-06-08T21:01:58Z",
           "stars": 856
         },
         "microsoft/MIRA": {
-          "forks": 16,
+          "forks": 17,
           "pushed_at": "2026-04-08T06:45:36Z",
-          "stars": 403
+          "stars": 404
         },
         "microsoft/MInference": {
           "forks": 78,
@@ -48884,13 +48884,13 @@
           "stars": 1219
         },
         "microsoft/ML-For-Beginners": {
-          "forks": 20999,
+          "forks": 21000,
           "pushed_at": "2026-06-03T18:07:24Z",
-          "stars": 86483
+          "stars": 86503
         },
         "microsoft/MSBuildLocator": {
           "forks": 89,
-          "pushed_at": "2026-06-04T21:06:02Z",
+          "pushed_at": "2026-06-08T15:30:17Z",
           "stars": 259
         },
         "microsoft/MSBuildSdks": {
@@ -48906,12 +48906,12 @@
         "microsoft/MarS": {
           "forks": 183,
           "pushed_at": "2026-04-21T19:37:27Z",
-          "stars": 1729
+          "stars": 1730
         },
         "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming": {
-          "forks": 1732,
+          "forks": 1733,
           "pushed_at": "2026-05-18T18:21:19Z",
-          "stars": 7952
+          "stars": 7955
         },
         "microsoft/Microsoft-Win32-Content-Prep-Tool": {
           "forks": 285,
@@ -48931,11 +48931,11 @@
         "microsoft/MixedRealityToolkit-Unity": {
           "forks": 2092,
           "pushed_at": "2026-05-09T02:06:50Z",
-          "stars": 6070
+          "stars": 6071
         },
         "microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator": {
-          "forks": 697,
-          "pushed_at": "2026-06-04T17:21:53Z",
+          "forks": 698,
+          "pushed_at": "2026-06-08T17:44:06Z",
           "stars": 838
         },
         "microsoft/Nova": {
@@ -48950,18 +48950,18 @@
         },
         "microsoft/Olive": {
           "forks": 299,
-          "pushed_at": "2026-06-06T00:59:57Z",
-          "stars": 2328
+          "pushed_at": "2026-06-08T20:46:02Z",
+          "stars": 2329
         },
         "microsoft/OmniParser": {
-          "forks": 2179,
+          "forks": 2178,
           "pushed_at": "2026-04-13T23:45:39Z",
           "stars": 24869
         },
         "microsoft/Ontology-Playground": {
-          "forks": 121,
+          "forks": 123,
           "pushed_at": "2026-06-03T18:31:45Z",
-          "stars": 526
+          "stars": 531
         },
         "microsoft/OpenAIWorkshop": {
           "forks": 477,
@@ -48995,17 +48995,17 @@
         },
         "microsoft/P.808": {
           "forks": 59,
-          "pushed_at": "2026-05-22T04:41:29Z",
+          "pushed_at": "2026-06-08T14:00:03Z",
           "stars": 228
         },
         "microsoft/PSRule": {
           "forks": 63,
-          "pushed_at": "2026-06-02T20:16:05Z",
+          "pushed_at": "2026-06-08T16:51:11Z",
           "stars": 468
         },
         "microsoft/PTVS": {
           "forks": 675,
-          "pushed_at": "2026-06-05T19:51:52Z",
+          "pushed_at": "2026-06-08T22:11:29Z",
           "stars": 2569
         },
         "microsoft/PhiCookBook": {
@@ -49020,23 +49020,23 @@
         },
         "microsoft/Power-CAT-Copilot-Studio-Kit": {
           "forks": 74,
-          "pushed_at": "2026-06-04T19:18:17Z",
+          "pushed_at": "2026-06-08T12:36:46Z",
           "stars": 401
         },
         "microsoft/Power-Fx": {
           "forks": 354,
-          "pushed_at": "2026-06-04T15:08:53Z",
+          "pushed_at": "2026-06-08T17:48:04Z",
           "stars": 3352
         },
         "microsoft/PowerApps-Samples": {
-          "forks": 1814,
+          "forks": 1815,
           "pushed_at": "2026-06-04T14:05:50Z",
           "stars": 1939
         },
         "microsoft/PowerApps-Tooling": {
-          "forks": 118,
+          "forks": 119,
           "pushed_at": "2026-06-03T03:05:20Z",
-          "stars": 428
+          "stars": 429
         },
         "microsoft/PowerAppsCodeApps": {
           "forks": 122,
@@ -49061,7 +49061,7 @@
         "microsoft/PowerBI-visuals-tools": {
           "forks": 163,
           "pushed_at": "2026-05-11T14:01:28Z",
-          "stars": 417
+          "stars": 418
         },
         "microsoft/PowerPlatformConnectors": {
           "forks": 1426,
@@ -49074,9 +49074,9 @@
           "stars": 617
         },
         "microsoft/PowerToys": {
-          "forks": 8038,
-          "pushed_at": "2026-06-08T07:55:37Z",
-          "stars": 133908
+          "forks": 8036,
+          "pushed_at": "2026-06-08T21:18:05Z",
+          "stars": 133941
         },
         "microsoft/ProbTS": {
           "forks": 26,
@@ -49091,42 +49091,42 @@
         "microsoft/ProcMon-for-Linux": {
           "forks": 289,
           "pushed_at": "2026-05-07T17:47:31Z",
-          "stars": 4687
+          "stars": 4688
         },
         "microsoft/PyRIT": {
-          "forks": 780,
-          "pushed_at": "2026-06-06T04:33:47Z",
-          "stars": 3939
+          "forks": 781,
+          "pushed_at": "2026-06-08T21:51:33Z",
+          "stars": 3944
         },
         "microsoft/Qcodes": {
-          "forks": 358,
-          "pushed_at": "2026-06-08T07:52:08Z",
+          "forks": 357,
+          "pushed_at": "2026-06-08T12:24:02Z",
           "stars": 443
         },
         "microsoft/RAMPART": {
           "forks": 42,
           "pushed_at": "2026-06-08T05:19:20Z",
-          "stars": 351
+          "stars": 353
         },
         "microsoft/RD-Agent": {
-          "forks": 1657,
+          "forks": 1658,
           "pushed_at": "2026-06-05T17:09:43Z",
-          "stars": 13380
+          "stars": 13385
         },
         "microsoft/RIFT": {
           "forks": 22,
           "pushed_at": "2026-05-30T12:19:45Z",
-          "stars": 367
+          "stars": 368
         },
         "microsoft/RPG-ZeroRepo": {
           "forks": 35,
           "pushed_at": "2026-06-04T04:11:35Z",
-          "stars": 612
+          "stars": 613
         },
         "microsoft/Recognizers-Text": {
           "forks": 436,
           "pushed_at": "2026-04-17T06:19:03Z",
-          "stars": 1780
+          "stars": 1781
         },
         "microsoft/RecursiveExtractor": {
           "forks": 35,
@@ -49146,7 +49146,7 @@
         "microsoft/RustTraining": {
           "forks": 1130,
           "pushed_at": "2026-05-25T16:41:46Z",
-          "stars": 14533
+          "stars": 14535
         },
         "microsoft/SDN": {
           "forks": 533,
@@ -49160,13 +49160,13 @@
         },
         "microsoft/SPTAG": {
           "forks": 618,
-          "pushed_at": "2026-06-08T03:43:45Z",
+          "pushed_at": "2026-06-08T10:30:36Z",
           "stars": 5001
         },
         "microsoft/STL": {
           "forks": 1624,
-          "pushed_at": "2026-06-07T08:11:59Z",
-          "stars": 11077
+          "pushed_at": "2026-06-08T08:36:01Z",
+          "stars": 11078
         },
         "microsoft/SandDance": {
           "forks": 570,
@@ -49181,12 +49181,12 @@
         "microsoft/Semi-supervised-learning": {
           "forks": 218,
           "pushed_at": "2026-06-06T09:13:30Z",
-          "stars": 1577
+          "stars": 1578
         },
         "microsoft/SkillOpt": {
-          "forks": 537,
-          "pushed_at": "2026-06-07T17:42:50Z",
-          "stars": 5382
+          "forks": 542,
+          "pushed_at": "2026-06-08T14:32:23Z",
+          "stars": 5453
         },
         "microsoft/SqlNexus": {
           "forks": 105,
@@ -49204,7 +49204,7 @@
           "stars": 864
         },
         "microsoft/SynapseML": {
-          "forks": 860,
+          "forks": 861,
           "pushed_at": "2026-05-30T07:08:07Z",
           "stars": 5230
         },
@@ -49219,9 +49219,9 @@
           "stars": 2108
         },
         "microsoft/TRELLIS.2": {
-          "forks": 993,
+          "forks": 998,
           "pushed_at": "2026-06-05T05:19:14Z",
-          "stars": 8216
+          "stars": 8233
         },
         "microsoft/TSS.MSR": {
           "forks": 176,
@@ -49240,7 +49240,7 @@
         },
         "microsoft/TypeAgent": {
           "forks": 99,
-          "pushed_at": "2026-06-07T05:05:58Z",
+          "pushed_at": "2026-06-08T19:26:14Z",
           "stars": 705
         },
         "microsoft/TypeChat": {
@@ -49249,14 +49249,14 @@
           "stars": 8664
         },
         "microsoft/TypeScript": {
-          "forks": 13438,
-          "pushed_at": "2026-06-08T00:54:56Z",
-          "stars": 109160
+          "forks": 13427,
+          "pushed_at": "2026-06-08T20:40:02Z",
+          "stars": 109157
         },
         "microsoft/TypeScript-DOM-lib-generator": {
           "forks": 469,
           "pushed_at": "2026-06-06T18:36:27Z",
-          "stars": 729
+          "stars": 730
         },
         "microsoft/TypeScript-TmLanguage": {
           "forks": 143,
@@ -49264,9 +49264,9 @@
           "stars": 463
         },
         "microsoft/TypeScript-Website": {
-          "forks": 1504,
-          "pushed_at": "2026-06-05T15:43:30Z",
-          "stars": 2527
+          "forks": 1502,
+          "pushed_at": "2026-06-08T17:35:50Z",
+          "stars": 2526
         },
         "microsoft/TypeScript-wiki": {
           "forks": 313,
@@ -49276,11 +49276,11 @@
         "microsoft/UFO": {
           "forks": 1029,
           "pushed_at": "2026-06-06T08:11:38Z",
-          "stars": 8912
+          "stars": 8919
         },
         "microsoft/VFSForGit": {
           "forks": 467,
-          "pushed_at": "2026-06-04T20:07:01Z",
+          "pushed_at": "2026-06-08T10:30:46Z",
           "stars": 6103
         },
         "microsoft/VITRA": {
@@ -49294,38 +49294,38 @@
           "stars": 436
         },
         "microsoft/VibeVoice": {
-          "forks": 5415,
+          "forks": 5437,
           "pushed_at": "2026-05-06T06:49:25Z",
-          "stars": 48698
+          "stars": 48927
         },
         "microsoft/WPF-Samples": {
-          "forks": 3281,
+          "forks": 3282,
           "pushed_at": "2026-05-15T09:20:07Z",
-          "stars": 5691
+          "stars": 5692
         },
         "microsoft/WSL": {
           "forks": 1753,
-          "pushed_at": "2026-06-08T06:13:11Z",
-          "stars": 32596
+          "pushed_at": "2026-06-08T22:07:13Z",
+          "stars": 32606
         },
         "microsoft/WSL2-Linux-Kernel": {
-          "forks": 1417,
+          "forks": 1416,
           "pushed_at": "2026-06-05T21:18:22Z",
-          "stars": 10443
+          "stars": 10444
         },
         "microsoft/Web-Dev-For-Beginners": {
-          "forks": 15589,
+          "forks": 15583,
           "pushed_at": "2026-06-05T19:17:29Z",
-          "stars": 95874
+          "stars": 95864
         },
         "microsoft/Webwright": {
-          "forks": 308,
+          "forks": 311,
           "pushed_at": "2026-06-03T22:29:25Z",
-          "stars": 5207
+          "stars": 5222
         },
         "microsoft/WhatTheHack": {
           "forks": 887,
-          "pushed_at": "2026-06-04T20:35:17Z",
+          "pushed_at": "2026-06-08T17:56:39Z",
           "stars": 1890
         },
         "microsoft/Win2D": {
@@ -49354,9 +49354,9 @@
           "stars": 5615
         },
         "microsoft/Windows-driver-samples": {
-          "forks": 5035,
+          "forks": 5036,
           "pushed_at": "2026-06-07T21:02:15Z",
-          "stars": 7752
+          "stars": 7753
         },
         "microsoft/Windows-rust-driver-samples": {
           "forks": 39,
@@ -49374,8 +49374,8 @@
           "stars": 865
         },
         "microsoft/WindowsAppSDK": {
-          "forks": 444,
-          "pushed_at": "2026-06-08T03:34:33Z",
+          "forks": 445,
+          "pushed_at": "2026-06-08T21:03:22Z",
           "stars": 4587
         },
         "microsoft/WindowsAppSDK-Samples": {
@@ -49384,9 +49384,9 @@
           "stars": 978
         },
         "microsoft/WindowsDeveloperConfig": {
-          "forks": 46,
+          "forks": 49,
           "pushed_at": "2026-06-06T01:23:43Z",
-          "stars": 551
+          "stars": 569
         },
         "microsoft/WindowsProtocolTestSuites": {
           "forks": 211,
@@ -49396,7 +49396,7 @@
         "microsoft/World-R1": {
           "forks": 15,
           "pushed_at": "2026-06-03T18:32:12Z",
-          "stars": 380
+          "stars": 381
         },
         "microsoft/XPretrain": {
           "forks": 35,
@@ -49420,12 +49420,12 @@
         },
         "microsoft/XmlNotepad": {
           "forks": 233,
-          "pushed_at": "2026-06-06T17:34:10Z",
-          "stars": 1162
+          "pushed_at": "2026-06-08T21:16:31Z",
+          "stars": 1163
         },
         "microsoft/accessibility-insights-web": {
           "forks": 171,
-          "pushed_at": "2026-06-05T06:48:14Z",
+          "pushed_at": "2026-06-08T17:10:06Z",
           "stars": 902
         },
         "microsoft/aerial_wildlife_detection": {
@@ -49435,38 +49435,38 @@
         },
         "microsoft/agent-academy": {
           "forks": 180,
-          "pushed_at": "2026-06-08T01:42:08Z",
-          "stars": 2682
+          "pushed_at": "2026-06-08T13:10:18Z",
+          "stars": 2692
         },
         "microsoft/agent-framework": {
-          "forks": 1859,
-          "pushed_at": "2026-06-08T03:48:01Z",
-          "stars": 11127
+          "forks": 1863,
+          "pushed_at": "2026-06-08T22:11:38Z",
+          "stars": 11149
         },
         "microsoft/agent-governance-toolkit": {
-          "forks": 563,
-          "pushed_at": "2026-06-08T01:40:10Z",
-          "stars": 4106
+          "forks": 568,
+          "pushed_at": "2026-06-08T21:47:58Z",
+          "stars": 4121
         },
         "microsoft/agent-lightning": {
           "forks": 1511,
           "pushed_at": "2026-04-29T06:32:24Z",
-          "stars": 17286
+          "stars": 17289
         },
         "microsoft/agentrc": {
-          "forks": 84,
+          "forks": 83,
           "pushed_at": "2026-06-08T07:14:13Z",
           "stars": 908
         },
         "microsoft/agentsleague": {
-          "forks": 86,
+          "forks": 87,
           "pushed_at": "2026-04-06T09:34:39Z",
           "stars": 276
         },
         "microsoft/ai-agents-for-beginners": {
-          "forks": 22009,
+          "forks": 22025,
           "pushed_at": "2026-05-25T17:28:39Z",
-          "stars": 66678
+          "stars": 66733
         },
         "microsoft/ai-dev-gallery": {
           "forks": 217,
@@ -49494,14 +49494,14 @@
           "stars": 3096
         },
         "microsoft/api-guidelines": {
-          "forks": 2696,
+          "forks": 2698,
           "pushed_at": "2026-05-21T22:27:21Z",
-          "stars": 23284
+          "stars": 23285
         },
         "microsoft/apm": {
           "forks": 230,
-          "pushed_at": "2026-06-07T17:35:26Z",
-          "stars": 2785
+          "pushed_at": "2026-06-08T21:44:29Z",
+          "stars": 2790
         },
         "microsoft/appcenter-sdk-react-native": {
           "forks": 133,
@@ -49515,23 +49515,23 @@
         },
         "microsoft/artifacts-credprovider": {
           "forks": 730,
-          "pushed_at": "2026-06-05T21:16:46Z",
-          "stars": 936
+          "pushed_at": "2026-06-08T18:52:46Z",
+          "stars": 937
         },
         "microsoft/aspire": {
-          "forks": 895,
-          "pushed_at": "2026-06-08T07:53:03Z",
-          "stars": 6041
+          "forks": 896,
+          "pushed_at": "2026-06-08T21:06:27Z",
+          "stars": 6046
         },
         "microsoft/aspire-samples": {
           "forks": 337,
-          "pushed_at": "2026-06-08T03:38:01Z",
-          "stars": 1182
+          "pushed_at": "2026-06-08T19:25:16Z",
+          "stars": 1183
         },
         "microsoft/autogen": {
-          "forks": 8874,
+          "forks": 8872,
           "pushed_at": "2026-04-15T11:59:09Z",
-          "stars": 58760
+          "stars": 58779
         },
         "microsoft/automatic-graph-layout": {
           "forks": 317,
@@ -49559,13 +49559,13 @@
           "stars": 224
         },
         "microsoft/azure-devops-mcp": {
-          "forks": 569,
-          "pushed_at": "2026-06-05T15:24:37Z",
-          "stars": 1774
+          "forks": 570,
+          "pushed_at": "2026-06-08T13:56:17Z",
+          "stars": 1784
         },
         "microsoft/azure-devops-node-api": {
           "forks": 240,
-          "pushed_at": "2026-06-05T03:55:34Z",
+          "pushed_at": "2026-06-08T11:26:40Z",
           "stars": 503
         },
         "microsoft/azure-maven-plugins": {
@@ -49574,13 +49574,13 @@
           "stars": 292
         },
         "microsoft/azure-pipelines-agent": {
-          "forks": 925,
+          "forks": 924,
           "pushed_at": "2026-06-04T08:19:34Z",
           "stars": 1898
         },
         "microsoft/azure-pipelines-extensions": {
-          "forks": 425,
-          "pushed_at": "2026-06-08T06:38:33Z",
+          "forks": 424,
+          "pushed_at": "2026-06-08T18:27:21Z",
           "stars": 308
         },
         "microsoft/azure-pipelines-task-lib": {
@@ -49589,14 +49589,14 @@
           "stars": 454
         },
         "microsoft/azure-pipelines-tasks": {
-          "forks": 2688,
-          "pushed_at": "2026-06-08T06:41:11Z",
+          "forks": 2687,
+          "pushed_at": "2026-06-08T19:25:16Z",
           "stars": 3645
         },
         "microsoft/azure-skills": {
-          "forks": 180,
+          "forks": 182,
           "pushed_at": "2026-06-04T16:38:32Z",
-          "stars": 1169
+          "stars": 1176
         },
         "microsoft/azure-tools-for-java": {
           "forks": 181,
@@ -49609,9 +49609,9 @@
           "stars": 807
         },
         "microsoft/azurelinux": {
-          "forks": 650,
-          "pushed_at": "2026-06-08T03:46:29Z",
-          "stars": 4969
+          "forks": 651,
+          "pushed_at": "2026-06-08T22:03:19Z",
+          "stars": 4974
         },
         "microsoft/beachball": {
           "forks": 92,
@@ -49619,19 +49619,19 @@
           "stars": 814
         },
         "microsoft/bf-tree": {
-          "forks": 40,
+          "forks": 39,
           "pushed_at": "2026-05-29T20:21:59Z",
           "stars": 1046
         },
         "microsoft/binskim": {
           "forks": 171,
-          "pushed_at": "2026-06-05T09:06:45Z",
+          "pushed_at": "2026-06-08T18:47:44Z",
           "stars": 853
         },
         "microsoft/bioemu": {
           "forks": 141,
           "pushed_at": "2026-05-28T09:22:29Z",
-          "stars": 826
+          "stars": 828
         },
         "microsoft/bobsql": {
           "forks": 165,
@@ -49644,9 +49644,9 @@
           "stars": 222
         },
         "microsoft/calculator": {
-          "forks": 5764,
+          "forks": 5763,
           "pushed_at": "2026-06-02T16:24:53Z",
-          "stars": 30956
+          "stars": 30957
         },
         "microsoft/call-center-ai": {
           "forks": 774,
@@ -49656,7 +49656,7 @@
         "microsoft/chat-copilot": {
           "forks": 776,
           "pushed_at": "2026-05-09T14:04:08Z",
-          "stars": 2433
+          "stars": 2434
         },
         "microsoft/clarity": {
           "forks": 270,
@@ -49665,16 +49665,16 @@
         },
         "microsoft/clarity-agent": {
           "forks": 24,
-          "pushed_at": "2026-06-08T05:53:12Z",
-          "stars": 221
+          "pushed_at": "2026-06-08T22:06:10Z",
+          "stars": 222
         },
         "microsoft/clrmd": {
           "forks": 266,
           "pushed_at": "2026-06-08T05:04:11Z",
-          "stars": 1146
+          "stars": 1147
         },
         "microsoft/codetour": {
-          "forks": 147,
+          "forks": 148,
           "pushed_at": "2026-05-05T00:33:49Z",
           "stars": 4537
         },
@@ -49689,19 +49689,19 @@
           "stars": 320
         },
         "microsoft/community-content": {
-          "forks": 121,
+          "forks": 122,
           "pushed_at": "2026-06-04T17:42:16Z",
           "stars": 249
         },
         "microsoft/component-detection": {
           "forks": 127,
-          "pushed_at": "2026-06-07T00:22:11Z",
+          "pushed_at": "2026-06-08T21:33:03Z",
           "stars": 544
         },
         "microsoft/conductor": {
           "forks": 26,
           "pushed_at": "2026-06-05T13:27:04Z",
-          "stars": 213
+          "stars": 216
         },
         "microsoft/content-generation-solution-accelerator": {
           "forks": 185,
@@ -49714,9 +49714,9 @@
           "stars": 225
         },
         "microsoft/copilot-camp": {
-          "forks": 156,
+          "forks": 157,
           "pushed_at": "2026-05-28T06:10:57Z",
-          "stars": 603
+          "stars": 605
         },
         "microsoft/cordova-simulate": {
           "forks": 56,
@@ -49724,9 +49724,9 @@
           "stars": 220
         },
         "microsoft/coreutils": {
-          "forks": 54,
-          "pushed_at": "2026-06-05T18:17:40Z",
-          "stars": 3549
+          "forks": 55,
+          "pushed_at": "2026-06-08T19:38:56Z",
+          "stars": 3627
         },
         "microsoft/cppgraphqlgen": {
           "forks": 51,
@@ -49741,7 +49741,7 @@
         "microsoft/ctsTraffic": {
           "forks": 52,
           "pushed_at": "2026-05-25T08:09:27Z",
-          "stars": 286
+          "stars": 285
         },
         "microsoft/data-accelerator": {
           "forks": 92,
@@ -49749,9 +49749,9 @@
           "stars": 313
         },
         "microsoft/data-formulator": {
-          "forks": 1486,
+          "forks": 1488,
           "pushed_at": "2026-06-06T06:02:00Z",
-          "stars": 15806
+          "stars": 15808
         },
         "microsoft/debug-adapter-protocol": {
           "forks": 168,
@@ -49760,17 +49760,17 @@
         },
         "microsoft/debug-gym": {
           "forks": 40,
-          "pushed_at": "2026-05-29T19:27:03Z",
+          "pushed_at": "2026-06-08T16:52:02Z",
           "stars": 298
         },
         "microsoft/debugpy": {
           "forks": 196,
           "pushed_at": "2026-06-01T17:45:06Z",
-          "stars": 2415
+          "stars": 2416
         },
         "microsoft/dev-tunnels": {
           "forks": 42,
-          "pushed_at": "2026-06-06T05:00:51Z",
+          "pushed_at": "2026-06-08T19:17:54Z",
           "stars": 476
         },
         "microsoft/dicom-server": {
@@ -49780,18 +49780,23 @@
         },
         "microsoft/dion": {
           "forks": 54,
-          "pushed_at": "2026-06-08T04:46:52Z",
+          "pushed_at": "2026-06-08T16:49:02Z",
           "stars": 483
         },
         "microsoft/diskspd": {
           "forks": 237,
           "pushed_at": "2026-05-18T17:47:17Z",
-          "stars": 1385
+          "stars": 1386
         },
         "microsoft/dotnet-framework-docker": {
           "forks": 347,
           "pushed_at": "2026-05-12T18:00:52Z",
           "stars": 761
+        },
+        "microsoft/durabletask-go": {
+          "forks": 62,
+          "pushed_at": "2026-06-08T19:37:11Z",
+          "stars": 305
         },
         "microsoft/dynamics365patternspractices": {
           "forks": 99,
@@ -49800,8 +49805,8 @@
         },
         "microsoft/ebpf-for-windows": {
           "forks": 287,
-          "pushed_at": "2026-06-07T22:45:47Z",
-          "stars": 3495
+          "pushed_at": "2026-06-08T21:33:17Z",
+          "stars": 3494
         },
         "microsoft/edgeai-for-beginners": {
           "forks": 340,
@@ -49809,17 +49814,17 @@
           "stars": 1500
         },
         "microsoft/edit": {
-          "forks": 695,
+          "forks": 696,
           "pushed_at": "2026-05-08T23:57:49Z",
-          "stars": 14303
+          "stars": 14305
         },
         "microsoft/fabric-cicd": {
-          "forks": 158,
+          "forks": 159,
           "pushed_at": "2026-06-07T17:38:56Z",
-          "stars": 288
+          "stars": 290
         },
         "microsoft/fabric-samples": {
-          "forks": 473,
+          "forks": 474,
           "pushed_at": "2026-06-02T20:05:19Z",
           "stars": 577
         },
@@ -49831,16 +49836,16 @@
         "microsoft/fara": {
           "forks": 540,
           "pushed_at": "2026-05-29T19:52:37Z",
-          "stars": 5447
+          "stars": 5450
         },
         "microsoft/fast": {
           "forks": 624,
-          "pushed_at": "2026-06-05T18:57:43Z",
-          "stars": 9657
+          "pushed_at": "2026-06-08T22:09:21Z",
+          "stars": 9658
         },
         "microsoft/fhir-server": {
           "forks": 583,
-          "pushed_at": "2026-06-07T22:09:36Z",
+          "pushed_at": "2026-06-08T21:35:42Z",
           "stars": 1358
         },
         "microsoft/finnts": {
@@ -49854,9 +49859,9 @@
           "stars": 565
         },
         "microsoft/fluentui": {
-          "forks": 2890,
-          "pushed_at": "2026-06-08T04:10:33Z",
-          "stars": 20041
+          "forks": 2892,
+          "pushed_at": "2026-06-08T21:27:58Z",
+          "stars": 20042
         },
         "microsoft/fluentui-android": {
           "forks": 119,
@@ -49871,15 +49876,15 @@
         "microsoft/fluentui-blazor": {
           "forks": 467,
           "pushed_at": "2026-06-07T10:13:36Z",
-          "stars": 4754
+          "stars": 4755
         },
         "microsoft/fluentui-react-native": {
           "forks": 172,
-          "pushed_at": "2026-06-06T01:27:21Z",
+          "pushed_at": "2026-06-08T19:51:08Z",
           "stars": 1437
         },
         "microsoft/fluentui-system-icons": {
-          "forks": 782,
+          "forks": 783,
           "pushed_at": "2026-06-01T21:44:49Z",
           "stars": 10607
         },
@@ -49889,14 +49894,14 @@
           "stars": 412
         },
         "microsoft/foundry-toolkit": {
-          "forks": 234,
+          "forks": 233,
           "pushed_at": "2026-06-03T08:53:45Z",
           "stars": 2016
         },
         "microsoft/garnet": {
           "forks": 665,
-          "pushed_at": "2026-06-08T04:33:55Z",
-          "stars": 11866
+          "pushed_at": "2026-06-08T22:10:43Z",
+          "stars": 11867
         },
         "microsoft/gctoolkit": {
           "forks": 167,
@@ -49909,13 +49914,13 @@
           "stars": 359
         },
         "microsoft/generative-ai-for-beginners": {
-          "forks": 59996,
-          "pushed_at": "2026-06-06T09:26:10Z",
-          "stars": 111764
+          "forks": 60010,
+          "pushed_at": "2026-06-08T14:17:33Z",
+          "stars": 111778
         },
         "microsoft/ghqr": {
           "forks": 29,
-          "pushed_at": "2026-06-08T05:15:55Z",
+          "pushed_at": "2026-06-08T08:15:06Z",
           "stars": 495
         },
         "microsoft/github-copilot-for-data-science": {
@@ -49925,18 +49930,18 @@
         },
         "microsoft/glTF-SDK": {
           "forks": 107,
-          "pushed_at": "2026-06-01T14:48:31Z",
+          "pushed_at": "2026-06-08T13:44:33Z",
           "stars": 615
         },
         "microsoft/go": {
           "forks": 46,
-          "pushed_at": "2026-06-08T01:54:58Z",
+          "pushed_at": "2026-06-08T20:34:50Z",
           "stars": 422
         },
         "microsoft/go-sqlcmd": {
           "forks": 84,
-          "pushed_at": "2026-06-04T20:12:17Z",
-          "stars": 559
+          "pushed_at": "2026-06-08T17:23:07Z",
+          "stars": 560
         },
         "microsoft/go-winio": {
           "forks": 208,
@@ -49949,9 +49954,9 @@
           "stars": 296
         },
         "microsoft/graphrag": {
-          "forks": 3549,
+          "forks": 3552,
           "pushed_at": "2026-06-05T23:46:49Z",
-          "stars": 33550
+          "stars": 33565
         },
         "microsoft/griffel": {
           "forks": 75,
@@ -49961,37 +49966,37 @@
         "microsoft/hcsshim": {
           "forks": 289,
           "pushed_at": "2026-06-08T06:59:56Z",
-          "stars": 676
+          "stars": 677
         },
         "microsoft/hlsl-specs": {
           "forks": 56,
-          "pushed_at": "2026-05-29T19:21:43Z",
+          "pushed_at": "2026-06-08T18:21:27Z",
           "stars": 222
         },
         "microsoft/hve-core": {
           "forks": 191,
-          "pushed_at": "2026-06-08T05:51:54Z",
-          "stars": 1110
+          "pushed_at": "2026-06-08T21:09:27Z",
+          "stars": 1113
         },
         "microsoft/injectorppforrust": {
           "forks": 16,
           "pushed_at": "2026-03-30T18:45:35Z",
-          "stars": 399
+          "stars": 400
         },
         "microsoft/inshellisense": {
           "forks": 220,
           "pushed_at": "2026-05-09T03:00:21Z",
-          "stars": 9924
+          "stars": 9925
         },
         "microsoft/intelligent-terminal": {
-          "forks": 40,
-          "pushed_at": "2026-06-08T07:50:45Z",
-          "stars": 733
+          "forks": 42,
+          "pushed_at": "2026-06-08T08:54:13Z",
+          "stars": 790
         },
         "microsoft/iq-series": {
-          "forks": 190,
+          "forks": 193,
           "pushed_at": "2026-06-04T23:46:25Z",
-          "stars": 268
+          "stars": 270
         },
         "microsoft/java-debug": {
           "forks": 192,
@@ -50010,8 +50015,8 @@
         },
         "microsoft/kiota": {
           "forks": 319,
-          "pushed_at": "2026-06-05T18:14:54Z",
-          "stars": 3761
+          "pushed_at": "2026-06-08T11:19:21Z",
+          "stars": 3762
         },
         "microsoft/knack": {
           "forks": 99,
@@ -50021,11 +50026,11 @@
         "microsoft/krabsetw": {
           "forks": 165,
           "pushed_at": "2026-04-14T22:16:36Z",
-          "stars": 773
+          "stars": 772
         },
         "microsoft/lage": {
           "forks": 82,
-          "pushed_at": "2026-06-04T22:57:29Z",
+          "pushed_at": "2026-06-08T09:14:17Z",
           "stars": 811
         },
         "microsoft/language-server-protocol": {
@@ -50039,18 +50044,18 @@
           "stars": 396
         },
         "microsoft/libHttpClient": {
-          "forks": 141,
-          "pushed_at": "2026-06-05T19:04:05Z",
+          "forks": 140,
+          "pushed_at": "2026-06-08T18:53:41Z",
           "stars": 292
         },
         "microsoft/lisa": {
           "forks": 235,
-          "pushed_at": "2026-06-08T06:49:17Z",
+          "pushed_at": "2026-06-08T18:59:56Z",
           "stars": 330
         },
         "microsoft/litebox": {
           "forks": 132,
-          "pushed_at": "2026-06-07T00:35:00Z",
+          "pushed_at": "2026-06-08T22:06:54Z",
           "stars": 2630
         },
         "microsoft/macos-cookbook": {
@@ -50061,7 +50066,7 @@
         "microsoft/magentic-ui": {
           "forks": 988,
           "pushed_at": "2026-06-04T17:37:29Z",
-          "stars": 9899
+          "stars": 9900
         },
         "microsoft/maker.js": {
           "forks": 296,
@@ -50069,44 +50074,39 @@
           "stars": 2002
         },
         "microsoft/markitdown": {
-          "forks": 10126,
+          "forks": 10180,
           "pushed_at": "2026-05-26T22:41:34Z",
-          "stars": 147752
+          "stars": 148363
         },
         "microsoft/mattersim": {
           "forks": 88,
           "pushed_at": "2026-05-28T15:25:55Z",
-          "stars": 562
+          "stars": 563
         },
         "microsoft/mcp": {
-          "forks": 515,
-          "pushed_at": "2026-06-05T22:38:47Z",
-          "stars": 3282
+          "forks": 517,
+          "pushed_at": "2026-06-08T21:29:38Z",
+          "stars": 3285
         },
         "microsoft/mcp-for-beginners": {
-          "forks": 5341,
-          "pushed_at": "2026-06-04T18:47:32Z",
-          "stars": 16318
+          "forks": 5350,
+          "pushed_at": "2026-06-08T15:09:40Z",
+          "stars": 16360
         },
         "microsoft/mcp-gateway": {
           "forks": 71,
-          "pushed_at": "2026-06-05T21:31:44Z",
-          "stars": 679
-        },
-        "microsoft/mcsmcp": {
-          "forks": 114,
-          "pushed_at": "2026-03-08T16:11:47Z",
-          "stars": 339
+          "pushed_at": "2026-06-08T17:50:35Z",
+          "stars": 680
         },
         "microsoft/mdatp-xplat": {
           "forks": 227,
           "pushed_at": "2026-05-18T02:03:55Z",
-          "stars": 279
+          "stars": 280
         },
         "microsoft/memento": {
           "forks": 43,
           "pushed_at": "2026-04-08T23:52:13Z",
-          "stars": 486
+          "stars": 487
         },
         "microsoft/mfcmapi": {
           "forks": 167,
@@ -50119,19 +50119,19 @@
           "stars": 224
         },
         "microsoft/microsoft-ui-reactor": {
-          "forks": 24,
-          "pushed_at": "2026-06-08T07:12:22Z",
-          "stars": 436
+          "forks": 25,
+          "pushed_at": "2026-06-08T21:25:19Z",
+          "stars": 444
         },
         "microsoft/microsoft-ui-xaml": {
-          "forks": 836,
-          "pushed_at": "2026-06-07T15:34:18Z",
+          "forks": 837,
+          "pushed_at": "2026-06-08T17:00:25Z",
           "stars": 7662
         },
         "microsoft/mimalloc": {
           "forks": 1119,
           "pushed_at": "2026-05-08T18:48:09Z",
-          "stars": 13069
+          "stars": 13072
         },
         "microsoft/minecraft-samples": {
           "forks": 240,
@@ -50151,12 +50151,12 @@
         "microsoft/model-mondays": {
           "forks": 47,
           "pushed_at": "2026-04-20T09:43:51Z",
-          "stars": 265
+          "stars": 266
         },
         "microsoft/monaco-editor": {
-          "forks": 4073,
+          "forks": 4074,
           "pushed_at": "2026-06-02T18:54:37Z",
-          "stars": 46148
+          "stars": 46150
         },
         "microsoft/mouselog": {
           "forks": 25,
@@ -50165,7 +50165,7 @@
         },
         "microsoft/mscclpp": {
           "forks": 100,
-          "pushed_at": "2026-06-06T01:28:19Z",
+          "pushed_at": "2026-06-08T21:54:03Z",
           "stars": 530
         },
         "microsoft/msphpsql": {
@@ -50174,9 +50174,9 @@
           "stars": 1875
         },
         "microsoft/msquic": {
-          "forks": 671,
-          "pushed_at": "2026-06-06T20:30:34Z",
-          "stars": 4712
+          "forks": 672,
+          "pushed_at": "2026-06-08T21:10:59Z",
+          "stars": 4713
         },
         "microsoft/mssql-django": {
           "forks": 138,
@@ -50185,7 +50185,7 @@
         },
         "microsoft/mssql-jdbc": {
           "forks": 468,
-          "pushed_at": "2026-06-04T10:53:03Z",
+          "pushed_at": "2026-06-08T09:22:33Z",
           "stars": 1128
         },
         "microsoft/mssql-python": {
@@ -50200,7 +50200,7 @@
         },
         "microsoft/msticpy": {
           "forks": 332,
-          "pushed_at": "2026-06-06T00:38:25Z",
+          "pushed_at": "2026-06-08T13:03:14Z",
           "stars": 1970
         },
         "microsoft/mu": {
@@ -50210,12 +50210,12 @@
         },
         "microsoft/mu_basecore": {
           "forks": 174,
-          "pushed_at": "2026-06-06T22:22:27Z",
+          "pushed_at": "2026-06-08T21:49:43Z",
           "stars": 285
         },
         "microsoft/mu_plus": {
           "forks": 123,
-          "pushed_at": "2026-06-06T04:20:20Z",
+          "pushed_at": "2026-06-08T18:29:03Z",
           "stars": 263
         },
         "microsoft/multilspy": {
@@ -50224,9 +50224,9 @@
           "stars": 586
         },
         "microsoft/mxc": {
-          "forks": 28,
-          "pushed_at": "2026-06-07T01:48:11Z",
-          "stars": 737
+          "forks": 30,
+          "pushed_at": "2026-06-08T21:32:29Z",
+          "stars": 768
         },
         "microsoft/navcontainerhelper": {
           "forks": 262,
@@ -50246,7 +50246,7 @@
         "microsoft/node-pty": {
           "forks": 317,
           "pushed_at": "2026-06-03T18:05:01Z",
-          "stars": 1956
+          "stars": 1957
         },
         "microsoft/nodejstools": {
           "forks": 354,
@@ -50264,23 +50264,23 @@
           "stars": 205
         },
         "microsoft/onnxruntime": {
-          "forks": 3962,
-          "pushed_at": "2026-06-08T07:49:45Z",
-          "stars": 20764
+          "forks": 3964,
+          "pushed_at": "2026-06-08T22:05:41Z",
+          "stars": 20770
         },
         "microsoft/onnxruntime-extensions": {
           "forks": 131,
-          "pushed_at": "2026-06-06T00:14:27Z",
-          "stars": 465
+          "pushed_at": "2026-06-08T22:11:57Z",
+          "stars": 466
         },
         "microsoft/onnxruntime-genai": {
           "forks": 301,
-          "pushed_at": "2026-06-05T22:11:48Z",
-          "stars": 1045
+          "pushed_at": "2026-06-08T21:40:57Z",
+          "stars": 1046
         },
         "microsoft/onnxscript": {
           "forks": 113,
-          "pushed_at": "2026-06-04T18:03:10Z",
+          "pushed_at": "2026-06-08T21:03:45Z",
           "stars": 441
         },
         "microsoft/openjdk": {
@@ -50294,24 +50294,24 @@
           "stars": 529
         },
         "microsoft/opensource.microsoft.com": {
-          "forks": 556,
+          "forks": 555,
           "pushed_at": "2026-06-03T22:20:57Z",
-          "stars": 1122
+          "stars": 1123
         },
         "microsoft/openvmm": {
           "forks": 202,
-          "pushed_at": "2026-06-06T03:33:36Z",
+          "pushed_at": "2026-06-08T21:04:20Z",
           "stars": 1844
         },
         "microsoft/perfview": {
-          "forks": 767,
+          "forks": 768,
           "pushed_at": "2026-05-28T23:46:25Z",
-          "stars": 4695
+          "stars": 4696
         },
         "microsoft/pg_durable": {
-          "forks": 36,
+          "forks": 41,
           "pushed_at": "2026-06-08T03:27:47Z",
-          "stars": 1563
+          "stars": 1692
         },
         "microsoft/picologging": {
           "forks": 26,
@@ -50324,29 +50324,29 @@
           "stars": 1439
         },
         "microsoft/playwright": {
-          "forks": 5878,
-          "pushed_at": "2026-06-08T06:50:27Z",
-          "stars": 90490
+          "forks": 5883,
+          "pushed_at": "2026-06-08T21:26:42Z",
+          "stars": 90528
         },
         "microsoft/playwright-cli": {
-          "forks": 582,
+          "forks": 586,
           "pushed_at": "2026-05-07T23:01:25Z",
-          "stars": 11137
+          "stars": 11155
         },
         "microsoft/playwright-dotnet": {
           "forks": 296,
           "pushed_at": "2026-06-04T15:28:04Z",
-          "stars": 2957
+          "stars": 2958
         },
         "microsoft/playwright-java": {
           "forks": 277,
           "pushed_at": "2026-06-03T02:29:02Z",
-          "stars": 1491
+          "stars": 1492
         },
         "microsoft/playwright-mcp": {
-          "forks": 2769,
+          "forks": 2771,
           "pushed_at": "2026-06-04T20:56:00Z",
-          "stars": 33615
+          "stars": 33647
         },
         "microsoft/playwright-pytest": {
           "forks": 87,
@@ -50355,28 +50355,28 @@
         },
         "microsoft/playwright-python": {
           "forks": 1177,
-          "pushed_at": "2026-05-18T16:34:08Z",
-          "stars": 14725
+          "pushed_at": "2026-06-08T11:47:29Z",
+          "stars": 14729
         },
         "microsoft/playwright-vscode": {
           "forks": 111,
           "pushed_at": "2026-05-28T07:17:36Z",
-          "stars": 471
+          "stars": 472
         },
         "microsoft/power-platform-skills": {
           "forks": 66,
-          "pushed_at": "2026-06-07T23:23:44Z",
-          "stars": 346
+          "pushed_at": "2026-06-08T12:19:31Z",
+          "stars": 349
         },
         "microsoft/powerbi-desktop-samples": {
-          "forks": 1129,
+          "forks": 1130,
           "pushed_at": "2026-05-19T22:02:18Z",
           "stars": 2017
         },
         "microsoft/powerbi-modeling-mcp": {
           "forks": 155,
           "pushed_at": "2026-05-28T08:41:38Z",
-          "stars": 832
+          "stars": 836
         },
         "microsoft/powerbi-powershell": {
           "forks": 132,
@@ -50384,9 +50384,9 @@
           "stars": 402
         },
         "microsoft/powerplatform-actions": {
-          "forks": 86,
+          "forks": 87,
           "pushed_at": "2026-06-02T23:55:30Z",
-          "stars": 291
+          "stars": 292
         },
         "microsoft/powerplatform-build-tools": {
           "forks": 69,
@@ -50399,9 +50399,9 @@
           "stars": 267
         },
         "microsoft/presidio": {
-          "forks": 1091,
+          "forks": 1092,
           "pushed_at": "2026-06-07T09:11:18Z",
-          "stars": 8493
+          "stars": 8503
         },
         "microsoft/presidio-research": {
           "forks": 76,
@@ -50410,18 +50410,18 @@
         },
         "microsoft/profile-explorer": {
           "forks": 23,
-          "pushed_at": "2026-06-04T22:29:14Z",
+          "pushed_at": "2026-06-08T21:10:38Z",
           "stars": 273
         },
         "microsoft/promptflow": {
-          "forks": 1106,
+          "forks": 1101,
           "pushed_at": "2026-06-04T02:58:12Z",
-          "stars": 11142
+          "stars": 11143
         },
         "microsoft/prompty": {
           "forks": 117,
           "pushed_at": "2026-06-06T05:15:29Z",
-          "stars": 1218
+          "stars": 1217
         },
         "microsoft/psi": {
           "forks": 103,
@@ -50430,7 +50430,7 @@
         },
         "microsoft/pxt": {
           "forks": 632,
-          "pushed_at": "2026-06-05T18:54:02Z",
+          "pushed_at": "2026-06-08T21:42:43Z",
           "stars": 2290
         },
         "microsoft/pxt-arcade": {
@@ -50439,19 +50439,19 @@
           "stars": 539
         },
         "microsoft/pxt-microbit": {
-          "forks": 715,
-          "pushed_at": "2026-06-05T16:59:25Z",
+          "forks": 714,
+          "pushed_at": "2026-06-08T20:57:14Z",
           "stars": 803
         },
         "microsoft/pylance-release": {
-          "forks": 1074,
+          "forks": 1073,
           "pushed_at": "2026-06-04T23:22:12Z",
           "stars": 2085
         },
         "microsoft/pyright": {
           "forks": 1788,
           "pushed_at": "2026-06-06T11:58:01Z",
-          "stars": 15472
+          "stars": 15473
         },
         "microsoft/python-environment-tools": {
           "forks": 41,
@@ -50466,17 +50466,17 @@
         "microsoft/python-type-stubs": {
           "forks": 103,
           "pushed_at": "2026-06-04T16:38:40Z",
-          "stars": 300
+          "stars": 301
         },
         "microsoft/qdk": {
           "forks": 181,
-          "pushed_at": "2026-06-05T20:25:22Z",
-          "stars": 936
+          "pushed_at": "2026-06-08T20:48:18Z",
+          "stars": 939
         },
         "microsoft/qlib": {
-          "forks": 6950,
+          "forks": 6956,
           "pushed_at": "2026-04-22T07:08:01Z",
-          "stars": 44158
+          "stars": 44179
         },
         "microsoft/rDSN": {
           "forks": 209,
@@ -50489,9 +50489,9 @@
           "stars": 308
         },
         "microsoft/rayfin": {
-          "forks": 35,
-          "pushed_at": "2026-06-02T18:55:16Z",
-          "stars": 426
+          "forks": 37,
+          "pushed_at": "2026-06-08T19:57:16Z",
+          "stars": 441
         },
         "microsoft/react-native-gallery": {
           "forks": 56,
@@ -50500,13 +50500,13 @@
         },
         "microsoft/react-native-test-app": {
           "forks": 98,
-          "pushed_at": "2026-06-07T22:14:10Z",
+          "pushed_at": "2026-06-08T14:23:55Z",
           "stars": 668
         },
         "microsoft/react-native-windows": {
           "forks": 1195,
-          "pushed_at": "2026-06-07T00:23:47Z",
-          "stars": 17281
+          "pushed_at": "2026-06-08T21:38:10Z",
+          "stars": 17282
         },
         "microsoft/react-native-windows-samples": {
           "forks": 216,
@@ -50519,7 +50519,7 @@
           "stars": 316
         },
         "microsoft/responsible-ai-toolbox": {
-          "forks": 478,
+          "forks": 477,
           "pushed_at": "2026-04-29T18:27:55Z",
           "stars": 1781
         },
@@ -50530,22 +50530,22 @@
         },
         "microsoft/retina": {
           "forks": 287,
-          "pushed_at": "2026-06-08T06:48:36Z",
+          "pushed_at": "2026-06-08T13:59:55Z",
           "stars": 3143
         },
         "microsoft/rnx-kit": {
           "forks": 118,
-          "pushed_at": "2026-06-07T22:02:37Z",
+          "pushed_at": "2026-06-08T12:04:24Z",
           "stars": 1723
         },
         "microsoft/roosterjs": {
           "forks": 184,
-          "pushed_at": "2026-06-04T20:40:51Z",
+          "pushed_at": "2026-06-08T21:33:20Z",
           "stars": 1312
         },
         "microsoft/rushstack": {
           "forks": 691,
-          "pushed_at": "2026-06-08T05:40:02Z",
+          "pushed_at": "2026-06-08T21:12:46Z",
           "stars": 6470
         },
         "microsoft/rust-for-dotnet-devs": {
@@ -50559,8 +50559,8 @@
           "stars": 1923
         },
         "microsoft/sarif-sdk": {
-          "forks": 100,
-          "pushed_at": "2026-06-07T21:46:19Z",
+          "forks": 101,
+          "pushed_at": "2026-06-08T22:11:04Z",
           "stars": 224
         },
         "microsoft/sbom-tool": {
@@ -50571,17 +50571,17 @@
         "microsoft/secureboot_objects": {
           "forks": 75,
           "pushed_at": "2026-06-04T15:11:47Z",
-          "stars": 246
+          "stars": 247
         },
         "microsoft/semantic-kernel": {
           "forks": 4637,
-          "pushed_at": "2026-06-05T23:43:19Z",
-          "stars": 28074
+          "pushed_at": "2026-06-08T16:39:19Z",
+          "stars": 28079
         },
         "microsoft/semantic-kernel-java": {
           "forks": 55,
           "pushed_at": "2026-05-08T03:52:07Z",
-          "stars": 266
+          "stars": 267
         },
         "microsoft/semantic-kernel-starters": {
           "forks": 134,
@@ -50589,7 +50589,7 @@
           "stars": 411
         },
         "microsoft/semantic-link-labs": {
-          "forks": 180,
+          "forks": 181,
           "pushed_at": "2026-06-07T17:44:03Z",
           "stars": 535
         },
@@ -50605,7 +50605,7 @@
         },
         "microsoft/service-fabric-dotnet": {
           "forks": 116,
-          "pushed_at": "2026-06-06T15:10:29Z",
+          "pushed_at": "2026-06-08T08:39:40Z",
           "stars": 276
         },
         "microsoft/setup-msbuild": {
@@ -50615,8 +50615,8 @@
         },
         "microsoft/shell-intune-samples": {
           "forks": 302,
-          "pushed_at": "2026-06-06T07:59:48Z",
-          "stars": 1040
+          "pushed_at": "2026-06-08T10:51:33Z",
+          "stars": 1043
         },
         "microsoft/skala": {
           "forks": 29,
@@ -50624,23 +50624,23 @@
           "stars": 238
         },
         "microsoft/skills": {
-          "forks": 284,
+          "forks": 287,
           "pushed_at": "2026-06-05T00:29:32Z",
-          "stars": 2514
+          "stars": 2518
         },
         "microsoft/skills-for-copilot-studio": {
-          "forks": 67,
+          "forks": 68,
           "pushed_at": "2026-06-04T10:17:35Z",
-          "stars": 304
+          "stars": 306
         },
         "microsoft/skills-for-fabric": {
-          "forks": 91,
+          "forks": 94,
           "pushed_at": "2026-06-07T11:25:19Z",
-          "stars": 421
+          "stars": 425
         },
         "microsoft/slngen": {
           "forks": 88,
-          "pushed_at": "2026-06-04T23:03:12Z",
+          "pushed_at": "2026-06-08T19:09:02Z",
           "stars": 462
         },
         "microsoft/slow-cheetah": {
@@ -50650,7 +50650,7 @@
         },
         "microsoft/snmalloc": {
           "forks": 123,
-          "pushed_at": "2026-06-04T16:38:49Z",
+          "pushed_at": "2026-06-08T12:16:40Z",
           "stars": 1844
         },
         "microsoft/spring-cloud-azure": {
@@ -50661,11 +50661,11 @@
         "microsoft/sql-server-samples": {
           "forks": 9102,
           "pushed_at": "2026-06-02T22:19:57Z",
-          "stars": 11100
+          "stars": 11101
         },
         "microsoft/sqltoolsservice": {
           "forks": 165,
-          "pushed_at": "2026-06-06T04:47:44Z",
+          "pushed_at": "2026-06-08T22:10:20Z",
           "stars": 503
         },
         "microsoft/superbenchmark": {
@@ -50675,7 +50675,7 @@
         },
         "microsoft/teams-sdk": {
           "forks": 264,
-          "pushed_at": "2026-06-05T18:48:06Z",
+          "pushed_at": "2026-06-08T22:11:00Z",
           "stars": 707
         },
         "microsoft/tensorwatch": {
@@ -50686,16 +50686,16 @@
         "microsoft/terminal": {
           "forks": 9330,
           "pushed_at": "2026-06-06T03:04:54Z",
-          "stars": 103508
+          "stars": 103518
         },
         "microsoft/terraform-provider-azuredevops": {
-          "forks": 314,
+          "forks": 313,
           "pushed_at": "2026-06-03T03:39:07Z",
-          "stars": 427
+          "stars": 428
         },
         "microsoft/testfx": {
           "forks": 296,
-          "pushed_at": "2026-06-08T06:22:10Z",
+          "pushed_at": "2026-06-08T17:29:30Z",
           "stars": 1017
         },
         "microsoft/tigertoolbox": {
@@ -50739,14 +50739,14 @@
           "stars": 422
         },
         "microsoft/typescript-go": {
-          "forks": 994,
-          "pushed_at": "2026-06-07T21:10:19Z",
-          "stars": 25624
+          "forks": 993,
+          "pushed_at": "2026-06-08T21:45:12Z",
+          "stars": 25626
         },
         "microsoft/typespec": {
           "forks": 371,
-          "pushed_at": "2026-06-06T04:53:20Z",
-          "stars": 5765
+          "pushed_at": "2026-06-08T20:10:27Z",
+          "stars": 5766
         },
         "microsoft/vc-ue-extensions": {
           "forks": 96,
@@ -50759,18 +50759,18 @@
           "stars": 328
         },
         "microsoft/vcpkg": {
-          "forks": 7552,
-          "pushed_at": "2026-06-08T07:24:17Z",
-          "stars": 27131
+          "forks": 7555,
+          "pushed_at": "2026-06-08T19:56:17Z",
+          "stars": 27138
         },
         "microsoft/vcpkg-tool": {
-          "forks": 350,
+          "forks": 351,
           "pushed_at": "2026-06-08T05:11:47Z",
           "stars": 586
         },
         "microsoft/vs-mef": {
           "forks": 90,
-          "pushed_at": "2026-06-06T23:05:46Z",
+          "pushed_at": "2026-06-08T17:52:01Z",
           "stars": 464
         },
         "microsoft/vs-solutionpersistence": {
@@ -50789,9 +50789,9 @@
           "stars": 1036
         },
         "microsoft/vscode": {
-          "forks": 40383,
-          "pushed_at": "2026-06-08T07:40:29Z",
-          "stars": 186064
+          "forks": 40305,
+          "pushed_at": "2026-06-08T22:11:45Z",
+          "stars": 186072
         },
         "microsoft/vscode-anycode": {
           "forks": 44,
@@ -50800,17 +50800,17 @@
         },
         "microsoft/vscode-azurefunctions": {
           "forks": 152,
-          "pushed_at": "2026-06-05T20:23:30Z",
+          "pushed_at": "2026-06-08T20:03:13Z",
           "stars": 318
         },
         "microsoft/vscode-cmake-tools": {
           "forks": 527,
-          "pushed_at": "2026-05-29T15:57:15Z",
+          "pushed_at": "2026-06-08T18:38:15Z",
           "stars": 1677
         },
         "microsoft/vscode-codicons": {
           "forks": 209,
-          "pushed_at": "2026-06-03T17:49:08Z",
+          "pushed_at": "2026-06-08T16:08:30Z",
           "stars": 1124
         },
         "microsoft/vscode-cordova": {
@@ -50844,8 +50844,8 @@
           "stars": 1309
         },
         "microsoft/vscode-docs": {
-          "forks": 5653,
-          "pushed_at": "2026-06-07T22:58:27Z",
+          "forks": 5655,
+          "pushed_at": "2026-06-08T21:19:42Z",
           "stars": 6535
         },
         "microsoft/vscode-dotnettools": {
@@ -50861,12 +50861,12 @@
         "microsoft/vscode-extension-samples": {
           "forks": 3884,
           "pushed_at": "2026-06-02T20:35:54Z",
-          "stars": 10089
+          "stars": 10090
         },
         "microsoft/vscode-generator-code": {
           "forks": 255,
           "pushed_at": "2026-05-27T18:15:56Z",
-          "stars": 1601
+          "stars": 1600
         },
         "microsoft/vscode-github-issue-notebooks": {
           "forks": 34,
@@ -50889,8 +50889,8 @@
           "stars": 587
         },
         "microsoft/vscode-java-pack": {
-          "forks": 162,
-          "pushed_at": "2026-06-08T06:25:08Z",
+          "forks": 163,
+          "pushed_at": "2026-06-08T16:43:27Z",
           "stars": 346
         },
         "microsoft/vscode-java-test": {
@@ -50901,7 +50901,7 @@
         "microsoft/vscode-js-debug": {
           "forks": 358,
           "pushed_at": "2026-06-03T23:00:12Z",
-          "stars": 1948
+          "stars": 1947
         },
         "microsoft/vscode-json-languageservice": {
           "forks": 130,
@@ -50909,7 +50909,7 @@
           "stars": 325
         },
         "microsoft/vscode-jupyter": {
-          "forks": 380,
+          "forks": 381,
           "pushed_at": "2026-06-03T08:54:44Z",
           "stars": 1505
         },
@@ -50924,9 +50924,9 @@
           "stars": 570
         },
         "microsoft/vscode-loc": {
-          "forks": 388,
-          "pushed_at": "2026-06-06T17:59:29Z",
-          "stars": 731
+          "forks": 387,
+          "pushed_at": "2026-06-08T18:17:45Z",
+          "stars": 730
         },
         "microsoft/vscode-makefile-tools": {
           "forks": 77,
@@ -50949,14 +50949,14 @@
           "stars": 356
         },
         "microsoft/vscode-mssql": {
-          "forks": 589,
-          "pushed_at": "2026-06-08T07:47:48Z",
-          "stars": 1881
+          "forks": 590,
+          "pushed_at": "2026-06-08T21:57:16Z",
+          "stars": 1882
         },
         "microsoft/vscode-pgsql": {
           "forks": 28,
           "pushed_at": "2026-05-27T20:02:48Z",
-          "stars": 378
+          "stars": 379
         },
         "microsoft/vscode-prompt-tsx": {
           "forks": 30,
@@ -50964,8 +50964,8 @@
           "stars": 278
         },
         "microsoft/vscode-pull-request-github": {
-          "forks": 750,
-          "pushed_at": "2026-06-03T15:44:33Z",
+          "forks": 752,
+          "pushed_at": "2026-06-08T13:23:55Z",
           "stars": 2595
         },
         "microsoft/vscode-react-native": {
@@ -50979,7 +50979,7 @@
           "stars": 5960
         },
         "microsoft/vscode-remote-try-node": {
-          "forks": 802,
+          "forks": 803,
           "pushed_at": "2026-05-26T16:40:23Z",
           "stars": 818
         },
@@ -50995,7 +50995,7 @@
         },
         "microsoft/vscode-textmate": {
           "forks": 127,
-          "pushed_at": "2026-06-02T00:29:46Z",
+          "pushed_at": "2026-06-08T13:44:06Z",
           "stars": 675
         },
         "microsoft/vscode-typescript-next": {
@@ -51025,12 +51025,12 @@
         },
         "microsoft/vstest": {
           "forks": 353,
-          "pushed_at": "2026-06-08T07:11:11Z",
+          "pushed_at": "2026-06-08T14:17:29Z",
           "stars": 959
         },
         "microsoft/vsts-extension-retrospectives": {
           "forks": 99,
-          "pushed_at": "2026-06-08T03:27:16Z",
+          "pushed_at": "2026-06-08T16:10:28Z",
           "stars": 209
         },
         "microsoft/vswhere": {
@@ -51039,24 +51039,24 @@
           "stars": 987
         },
         "microsoft/wassette": {
-          "forks": 64,
+          "forks": 65,
           "pushed_at": "2026-06-03T10:51:33Z",
-          "stars": 913
+          "stars": 914
         },
         "microsoft/waza": {
           "forks": 56,
           "pushed_at": "2026-06-06T12:08:53Z",
-          "stars": 981
+          "stars": 985
         },
         "microsoft/wil": {
           "forks": 289,
           "pushed_at": "2026-05-01T16:38:20Z",
-          "stars": 2941
+          "stars": 2938
         },
         "microsoft/win-dev-skills": {
           "forks": 12,
           "pushed_at": "2026-06-03T11:47:55Z",
-          "stars": 264
+          "stars": 267
         },
         "microsoft/win32metadata": {
           "forks": 144,
@@ -51065,8 +51065,8 @@
         },
         "microsoft/winappCli": {
           "forks": 54,
-          "pushed_at": "2026-06-05T20:03:22Z",
-          "stars": 1096
+          "pushed_at": "2026-06-08T20:18:20Z",
+          "stars": 1097
         },
         "microsoft/windows-container-tools": {
           "forks": 73,
@@ -51076,17 +51076,17 @@
         "microsoft/windows-drivers-rs": {
           "forks": 126,
           "pushed_at": "2026-06-08T05:22:57Z",
-          "stars": 1878
+          "stars": 1880
         },
         "microsoft/windows-rs": {
           "forks": 621,
-          "pushed_at": "2026-06-08T00:21:01Z",
-          "stars": 12381
+          "pushed_at": "2026-06-08T21:39:03Z",
+          "stars": 12384
         },
         "microsoft/winget-cli": {
           "forks": 1748,
           "pushed_at": "2026-06-05T00:30:50Z",
-          "stars": 25984
+          "stars": 25986
         },
         "microsoft/winget-cli-restsource": {
           "forks": 79,
@@ -51099,23 +51099,23 @@
           "stars": 622
         },
         "microsoft/winget-pkgs": {
-          "forks": 7311,
-          "pushed_at": "2026-06-08T06:42:24Z",
-          "stars": 10667
+          "forks": 7323,
+          "pushed_at": "2026-06-08T22:11:55Z",
+          "stars": 10669
         },
         "microsoft/work-iq": {
-          "forks": 88,
+          "forks": 89,
           "pushed_at": "2026-06-05T22:16:32Z",
           "stars": 870
         },
         "microsoft/wslg": {
           "forks": 419,
-          "pushed_at": "2026-06-05T20:56:26Z",
-          "stars": 11679
+          "pushed_at": "2026-06-08T15:47:14Z",
+          "stars": 11681
         },
         "microsoft/xdp-for-windows": {
           "forks": 58,
-          "pushed_at": "2026-06-06T04:23:01Z",
+          "pushed_at": "2026-06-08T21:31:53Z",
           "stars": 476
         },
         "microsoft/xlang": {
@@ -51125,7 +51125,7 @@
         },
         "microsoft/zerotrustassessment": {
           "forks": 159,
-          "pushed_at": "2026-06-08T07:40:54Z",
+          "pushed_at": "2026-06-08T10:21:45Z",
           "stars": 357
         }
       }
@@ -51136,12 +51136,12 @@
         "microsoft/AI-Engineering-Coach": {
           "forks": 262,
           "pushed_at": "2026-06-08T19:16:00Z",
-          "stars": 1941
+          "stars": 1943
         },
         "microsoft/AI-For-Beginners": {
           "forks": 9941,
           "pushed_at": "2026-05-09T00:28:43Z",
-          "stars": 48019
+          "stars": 48022
         },
         "microsoft/AIOpsLab": {
           "forks": 161,
@@ -51186,7 +51186,7 @@
         "microsoft/AirSim": {
           "forks": 4904,
           "pushed_at": "2026-03-15T23:17:10Z",
-          "stars": 18225
+          "stars": 18226
         },
         "microsoft/Analysis-Services": {
           "forks": 430,
@@ -51245,7 +51245,7 @@
         },
         "microsoft/BCApps": {
           "forks": 381,
-          "pushed_at": "2026-06-09T07:25:01Z",
+          "pushed_at": "2026-06-09T08:37:04Z",
           "stars": 594
         },
         "microsoft/BCTech": {
@@ -51261,7 +51261,7 @@
         "microsoft/BitNet": {
           "forks": 3590,
           "pushed_at": "2026-03-10T07:49:47Z",
-          "stars": 39258
+          "stars": 39260
         },
         "microsoft/BotFramework-WebChat": {
           "forks": 1603,
@@ -51271,7 +51271,7 @@
         "microsoft/Build-CLI": {
           "forks": 75,
           "pushed_at": "2026-06-03T09:12:29Z",
-          "stars": 259
+          "stars": 260
         },
         "microsoft/Build-your-own-copilot-Solution-Accelerator": {
           "forks": 181,
@@ -51366,7 +51366,7 @@
         "microsoft/DebugMCP": {
           "forks": 33,
           "pushed_at": "2026-06-04T20:43:19Z",
-          "stars": 369
+          "stars": 370
         },
         "microsoft/DefinitelyTyped-tools": {
           "forks": 232,
@@ -51381,7 +51381,7 @@
         "microsoft/Detours": {
           "forks": 1153,
           "pushed_at": "2026-05-22T23:48:33Z",
-          "stars": 6284
+          "stars": 6282
         },
         "microsoft/DevSkim": {
           "forks": 125,
@@ -51500,7 +51500,7 @@
         },
         "microsoft/FluidExamples": {
           "forks": 100,
-          "pushed_at": "2026-06-05T15:57:50Z",
+          "pushed_at": "2026-06-09T07:45:27Z",
           "stars": 279
         },
         "microsoft/FluidFramework": {
@@ -51521,7 +51521,7 @@
         "microsoft/GDK": {
           "forks": 126,
           "pushed_at": "2026-05-20T21:28:04Z",
-          "stars": 1670
+          "stars": 1671
         },
         "microsoft/GSL": {
           "forks": 766,
@@ -51596,7 +51596,7 @@
         "microsoft/Lens": {
           "forks": 16,
           "pushed_at": "2026-05-25T06:52:50Z",
-          "stars": 231
+          "stars": 232
         },
         "microsoft/LocalizedStringKit": {
           "forks": 12,
@@ -51629,9 +51629,9 @@
           "stars": 1219
         },
         "microsoft/ML-For-Beginners": {
-          "forks": 21001,
+          "forks": 21002,
           "pushed_at": "2026-06-03T18:07:24Z",
-          "stars": 86516
+          "stars": 86520
         },
         "microsoft/MSBuildLocator": {
           "forks": 89,
@@ -51656,7 +51656,7 @@
         "microsoft/Mastering-GitHub-Copilot-for-Paired-Programming": {
           "forks": 1733,
           "pushed_at": "2026-05-18T18:21:19Z",
-          "stars": 7955
+          "stars": 7956
         },
         "microsoft/Microsoft-Win32-Content-Prep-Tool": {
           "forks": 285,
@@ -51821,7 +51821,7 @@
         "microsoft/PowerToys": {
           "forks": 8037,
           "pushed_at": "2026-06-08T21:18:05Z",
-          "stars": 133952
+          "stars": 133953
         },
         "microsoft/ProbTS": {
           "forks": 26,
@@ -51845,7 +51845,7 @@
         },
         "microsoft/Qcodes": {
           "forks": 357,
-          "pushed_at": "2026-06-09T04:45:02Z",
+          "pushed_at": "2026-06-09T08:19:25Z",
           "stars": 443
         },
         "microsoft/RAMPART": {
@@ -51856,7 +51856,7 @@
         "microsoft/RD-Agent": {
           "forks": 1661,
           "pushed_at": "2026-06-05T17:09:43Z",
-          "stars": 13389
+          "stars": 13391
         },
         "microsoft/RIFT": {
           "forks": 22,
@@ -51910,7 +51910,7 @@
         },
         "microsoft/STL": {
           "forks": 1624,
-          "pushed_at": "2026-06-08T08:36:01Z",
+          "pushed_at": "2026-06-09T08:15:02Z",
           "stars": 11078
         },
         "microsoft/SandDance": {
@@ -51929,9 +51929,9 @@
           "stars": 1579
         },
         "microsoft/SkillOpt": {
-          "forks": 546,
+          "forks": 547,
           "pushed_at": "2026-06-08T14:32:23Z",
-          "stars": 5502
+          "stars": 5518
         },
         "microsoft/SqlNexus": {
           "forks": 105,
@@ -51961,12 +51961,12 @@
         "microsoft/SysmonForLinux": {
           "forks": 213,
           "pushed_at": "2026-05-07T17:47:39Z",
-          "stars": 2109
+          "stars": 2110
         },
         "microsoft/TRELLIS.2": {
           "forks": 1000,
           "pushed_at": "2026-06-05T05:19:14Z",
-          "stars": 8241
+          "stars": 8243
         },
         "microsoft/TSS.MSR": {
           "forks": 176,
@@ -51996,7 +51996,7 @@
         "microsoft/TypeScript": {
           "forks": 13424,
           "pushed_at": "2026-06-08T22:55:38Z",
-          "stars": 109159
+          "stars": 109160
         },
         "microsoft/TypeScript-DOM-lib-generator": {
           "forks": 469,
@@ -52021,7 +52021,7 @@
         "microsoft/UFO": {
           "forks": 1029,
           "pushed_at": "2026-06-06T08:11:38Z",
-          "stars": 8923
+          "stars": 8924
         },
         "microsoft/VFSForGit": {
           "forks": 467,
@@ -52039,9 +52039,9 @@
           "stars": 436
         },
         "microsoft/VibeVoice": {
-          "forks": 5453,
+          "forks": 5455,
           "pushed_at": "2026-05-06T06:49:25Z",
-          "stars": 49057
+          "stars": 49082
         },
         "microsoft/WPF-Samples": {
           "forks": 3282,
@@ -52050,7 +52050,7 @@
         },
         "microsoft/WSL": {
           "forks": 1753,
-          "pushed_at": "2026-06-09T06:08:54Z",
+          "pushed_at": "2026-06-09T08:42:39Z",
           "stars": 32610
         },
         "microsoft/WSL2-Linux-Kernel": {
@@ -52061,12 +52061,12 @@
         "microsoft/Web-Dev-For-Beginners": {
           "forks": 15579,
           "pushed_at": "2026-06-05T19:17:29Z",
-          "stars": 95861
+          "stars": 95862
         },
         "microsoft/Webwright": {
           "forks": 314,
           "pushed_at": "2026-06-03T22:29:25Z",
-          "stars": 5235
+          "stars": 5240
         },
         "microsoft/WhatTheHack": {
           "forks": 887,
@@ -52121,7 +52121,7 @@
         "microsoft/WindowsAppSDK": {
           "forks": 445,
           "pushed_at": "2026-06-09T07:18:26Z",
-          "stars": 4588
+          "stars": 4587
         },
         "microsoft/WindowsAppSDK-Samples": {
           "forks": 323,
@@ -52129,9 +52129,9 @@
           "stars": 978
         },
         "microsoft/WindowsDeveloperConfig": {
-          "forks": 49,
+          "forks": 50,
           "pushed_at": "2026-06-06T01:23:43Z",
-          "stars": 583
+          "stars": 587
         },
         "microsoft/WindowsProtocolTestSuites": {
           "forks": 211,
@@ -52166,11 +52166,11 @@
         "microsoft/XmlNotepad": {
           "forks": 233,
           "pushed_at": "2026-06-08T23:54:05Z",
-          "stars": 1164
+          "stars": 1165
         },
         "microsoft/accessibility-insights-web": {
           "forks": 171,
-          "pushed_at": "2026-06-09T06:50:43Z",
+          "pushed_at": "2026-06-09T08:49:19Z",
           "stars": 902
         },
         "microsoft/aerial_wildlife_detection": {
@@ -52181,22 +52181,22 @@
         "microsoft/agent-academy": {
           "forks": 180,
           "pushed_at": "2026-06-09T02:02:24Z",
-          "stars": 2694
+          "stars": 2696
         },
         "microsoft/agent-framework": {
-          "forks": 1866,
-          "pushed_at": "2026-06-09T07:22:58Z",
-          "stars": 11168
+          "forks": 1869,
+          "pushed_at": "2026-06-09T08:43:32Z",
+          "stars": 11173
         },
         "microsoft/agent-governance-toolkit": {
           "forks": 571,
           "pushed_at": "2026-06-09T05:24:33Z",
-          "stars": 4141
+          "stars": 4145
         },
         "microsoft/agent-lightning": {
           "forks": 1510,
           "pushed_at": "2026-04-29T06:32:24Z",
-          "stars": 17288
+          "stars": 17289
         },
         "microsoft/agentrc": {
           "forks": 82,
@@ -52209,9 +52209,9 @@
           "stars": 276
         },
         "microsoft/ai-agents-for-beginners": {
-          "forks": 22039,
+          "forks": 22046,
           "pushed_at": "2026-05-25T17:28:39Z",
-          "stars": 66773
+          "stars": 66786
         },
         "microsoft/ai-dev-gallery": {
           "forks": 217,
@@ -52245,8 +52245,8 @@
         },
         "microsoft/apm": {
           "forks": 230,
-          "pushed_at": "2026-06-09T07:23:17Z",
-          "stars": 2793
+          "pushed_at": "2026-06-09T08:56:26Z",
+          "stars": 2794
         },
         "microsoft/appcenter-sdk-react-native": {
           "forks": 133,
@@ -52265,8 +52265,8 @@
         },
         "microsoft/aspire": {
           "forks": 896,
-          "pushed_at": "2026-06-09T07:24:22Z",
-          "stars": 6048
+          "pushed_at": "2026-06-09T08:48:30Z",
+          "stars": 6049
         },
         "microsoft/aspire-samples": {
           "forks": 337,
@@ -52276,7 +52276,7 @@
         "microsoft/autogen": {
           "forks": 8874,
           "pushed_at": "2026-04-15T11:59:09Z",
-          "stars": 58794
+          "stars": 58796
         },
         "microsoft/automatic-graph-layout": {
           "forks": 317,
@@ -52306,11 +52306,11 @@
         "microsoft/azure-devops-mcp": {
           "forks": 570,
           "pushed_at": "2026-06-08T13:56:17Z",
-          "stars": 1785
+          "stars": 1786
         },
         "microsoft/azure-devops-node-api": {
           "forks": 240,
-          "pushed_at": "2026-06-09T07:00:14Z",
+          "pushed_at": "2026-06-09T08:21:44Z",
           "stars": 503
         },
         "microsoft/azure-maven-plugins": {
@@ -52320,7 +52320,7 @@
         },
         "microsoft/azure-pipelines-agent": {
           "forks": 924,
-          "pushed_at": "2026-06-09T05:20:45Z",
+          "pushed_at": "2026-06-09T07:41:07Z",
           "stars": 1898
         },
         "microsoft/azure-pipelines-extensions": {
@@ -52335,7 +52335,7 @@
         },
         "microsoft/azure-pipelines-tasks": {
           "forks": 2687,
-          "pushed_at": "2026-06-09T06:49:23Z",
+          "pushed_at": "2026-06-09T08:23:47Z",
           "stars": 3645
         },
         "microsoft/azure-skills": {
@@ -52355,7 +52355,7 @@
         },
         "microsoft/azurelinux": {
           "forks": 652,
-          "pushed_at": "2026-06-09T05:11:59Z",
+          "pushed_at": "2026-06-09T08:31:45Z",
           "stars": 4976
         },
         "microsoft/beachball": {
@@ -52370,13 +52370,13 @@
         },
         "microsoft/binskim": {
           "forks": 171,
-          "pushed_at": "2026-06-08T18:47:44Z",
+          "pushed_at": "2026-06-09T08:51:28Z",
           "stars": 853
         },
         "microsoft/bioemu": {
           "forks": 141,
           "pushed_at": "2026-05-28T09:22:29Z",
-          "stars": 829
+          "stars": 830
         },
         "microsoft/bobsql": {
           "forks": 165,
@@ -52446,7 +52446,7 @@
         "microsoft/conductor": {
           "forks": 26,
           "pushed_at": "2026-06-05T13:27:04Z",
-          "stars": 216
+          "stars": 217
         },
         "microsoft/content-generation-solution-accelerator": {
           "forks": 186,
@@ -52469,9 +52469,9 @@
           "stars": 220
         },
         "microsoft/coreutils": {
-          "forks": 56,
+          "forks": 57,
           "pushed_at": "2026-06-08T19:38:56Z",
-          "stars": 3684
+          "stars": 3701
         },
         "microsoft/cppgraphqlgen": {
           "forks": 51,
@@ -52501,7 +52501,7 @@
         "microsoft/debug-adapter-protocol": {
           "forks": 168,
           "pushed_at": "2026-05-26T15:25:08Z",
-          "stars": 1743
+          "stars": 1742
         },
         "microsoft/debug-gym": {
           "forks": 40,
@@ -52516,7 +52516,7 @@
         "microsoft/dev-tunnels": {
           "forks": 43,
           "pushed_at": "2026-06-08T19:17:54Z",
-          "stars": 476
+          "stars": 475
         },
         "microsoft/dicom-server": {
           "forks": 190,
@@ -52561,7 +52561,7 @@
         "microsoft/edgeai-for-beginners": {
           "forks": 340,
           "pushed_at": "2026-04-20T15:24:16Z",
-          "stars": 1501
+          "stars": 1502
         },
         "microsoft/edit": {
           "forks": 696,
@@ -52591,7 +52591,7 @@
         "microsoft/fast": {
           "forks": 624,
           "pushed_at": "2026-06-09T03:44:09Z",
-          "stars": 9656
+          "stars": 9655
         },
         "microsoft/fhir-server": {
           "forks": 583,
@@ -52611,7 +52611,7 @@
         "microsoft/fluentui": {
           "forks": 2891,
           "pushed_at": "2026-06-09T07:09:58Z",
-          "stars": 20046
+          "stars": 20047
         },
         "microsoft/fluentui-android": {
           "forks": 119,
@@ -52625,8 +52625,8 @@
         },
         "microsoft/fluentui-blazor": {
           "forks": 467,
-          "pushed_at": "2026-06-07T10:13:36Z",
-          "stars": 4757
+          "pushed_at": "2026-06-09T08:58:02Z",
+          "stars": 4758
         },
         "microsoft/fluentui-react-native": {
           "forks": 172,
@@ -52646,7 +52646,7 @@
         "microsoft/foundry-toolkit": {
           "forks": 234,
           "pushed_at": "2026-06-09T07:08:03Z",
-          "stars": 2016
+          "stars": 2017
         },
         "microsoft/garnet": {
           "forks": 665,
@@ -52664,9 +52664,9 @@
           "stars": 359
         },
         "microsoft/generative-ai-for-beginners": {
-          "forks": 60011,
+          "forks": 60015,
           "pushed_at": "2026-06-08T14:17:33Z",
-          "stars": 111790
+          "stars": 111792
         },
         "microsoft/ghqr": {
           "forks": 29,
@@ -52704,9 +52704,9 @@
           "stars": 296
         },
         "microsoft/graphrag": {
-          "forks": 3553,
+          "forks": 3555,
           "pushed_at": "2026-06-05T23:46:49Z",
-          "stars": 33583
+          "stars": 33586
         },
         "microsoft/griffel": {
           "forks": 75,
@@ -52725,7 +52725,7 @@
         },
         "microsoft/hve-core": {
           "forks": 191,
-          "pushed_at": "2026-06-09T05:18:13Z",
+          "pushed_at": "2026-06-09T08:06:57Z",
           "stars": 1113
         },
         "microsoft/injectorppforrust": {
@@ -52740,17 +52740,17 @@
         },
         "microsoft/intelligent-terminal": {
           "forks": 44,
-          "pushed_at": "2026-06-09T07:15:47Z",
-          "stars": 811
+          "pushed_at": "2026-06-09T08:27:30Z",
+          "stars": 814
         },
         "microsoft/iq-series": {
-          "forks": 195,
+          "forks": 197,
           "pushed_at": "2026-06-04T23:46:25Z",
           "stars": 272
         },
         "microsoft/java-debug": {
           "forks": 192,
-          "pushed_at": "2026-06-09T06:46:15Z",
+          "pushed_at": "2026-06-09T08:35:07Z",
           "stars": 406
         },
         "microsoft/jericho": {
@@ -52761,7 +52761,7 @@
         "microsoft/just": {
           "forks": 95,
           "pushed_at": "2026-06-09T07:18:47Z",
-          "stars": 2026
+          "stars": 2027
         },
         "microsoft/kernel-memory": {
           "forks": 397,
@@ -52770,7 +52770,7 @@
         },
         "microsoft/kiota": {
           "forks": 319,
-          "pushed_at": "2026-06-08T11:19:21Z",
+          "pushed_at": "2026-06-09T08:33:58Z",
           "stars": 3763
         },
         "microsoft/knack": {
@@ -52805,7 +52805,7 @@
         },
         "microsoft/lisa": {
           "forks": 235,
-          "pushed_at": "2026-06-09T06:38:43Z",
+          "pushed_at": "2026-06-09T07:53:20Z",
           "stars": 330
         },
         "microsoft/litebox": {
@@ -52829,9 +52829,9 @@
           "stars": 2002
         },
         "microsoft/markitdown": {
-          "forks": 10213,
+          "forks": 10218,
           "pushed_at": "2026-05-26T22:41:34Z",
-          "stars": 148727
+          "stars": 148830
         },
         "microsoft/mattersim": {
           "forks": 88,
@@ -52839,14 +52839,14 @@
           "stars": 563
         },
         "microsoft/mcp": {
-          "forks": 517,
+          "forks": 518,
           "pushed_at": "2026-06-09T05:23:50Z",
           "stars": 3286
         },
         "microsoft/mcp-for-beginners": {
-          "forks": 5361,
+          "forks": 5364,
           "pushed_at": "2026-06-08T15:09:40Z",
-          "stars": 16413
+          "stars": 16420
         },
         "microsoft/mcp-gateway": {
           "forks": 71,
@@ -52881,7 +52881,7 @@
         "microsoft/microsoft-ui-xaml": {
           "forks": 837,
           "pushed_at": "2026-06-09T03:55:33Z",
-          "stars": 7663
+          "stars": 7664
         },
         "microsoft/mimalloc": {
           "forks": 1119,
@@ -52911,7 +52911,7 @@
         "microsoft/monaco-editor": {
           "forks": 4075,
           "pushed_at": "2026-06-02T18:54:37Z",
-          "stars": 46151
+          "stars": 46150
         },
         "microsoft/mouselog": {
           "forks": 25,
@@ -52940,7 +52940,7 @@
         },
         "microsoft/mssql-jdbc": {
           "forks": 468,
-          "pushed_at": "2026-06-09T05:46:02Z",
+          "pushed_at": "2026-06-09T08:20:16Z",
           "stars": 1128
         },
         "microsoft/mssql-python": {
@@ -52981,7 +52981,7 @@
         "microsoft/mxc": {
           "forks": 32,
           "pushed_at": "2026-06-08T21:32:29Z",
-          "stars": 786
+          "stars": 792
         },
         "microsoft/navcontainerhelper": {
           "forks": 262,
@@ -53019,9 +53019,9 @@
           "stars": 205
         },
         "microsoft/onnxruntime": {
-          "forks": 3964,
+          "forks": 3966,
           "pushed_at": "2026-06-09T05:15:38Z",
-          "stars": 20773
+          "stars": 20774
         },
         "microsoft/onnxruntime-extensions": {
           "forks": 131,
@@ -53061,12 +53061,12 @@
         "microsoft/perfview": {
           "forks": 769,
           "pushed_at": "2026-05-28T23:46:25Z",
-          "stars": 4697
+          "stars": 4698
         },
         "microsoft/pg_durable": {
           "forks": 42,
           "pushed_at": "2026-06-08T03:27:47Z",
-          "stars": 1717
+          "stars": 1721
         },
         "microsoft/picologging": {
           "forks": 26,
@@ -53079,14 +53079,14 @@
           "stars": 1439
         },
         "microsoft/playwright": {
-          "forks": 5884,
-          "pushed_at": "2026-06-09T04:43:38Z",
-          "stars": 90558
+          "forks": 5885,
+          "pushed_at": "2026-06-09T08:05:54Z",
+          "stars": 90566
         },
         "microsoft/playwright-cli": {
           "forks": 587,
           "pushed_at": "2026-05-07T23:01:25Z",
-          "stars": 11176
+          "stars": 11179
         },
         "microsoft/playwright-dotnet": {
           "forks": 296,
@@ -53101,7 +53101,7 @@
         "microsoft/playwright-mcp": {
           "forks": 2773,
           "pushed_at": "2026-06-04T20:56:00Z",
-          "stars": 33666
+          "stars": 33672
         },
         "microsoft/playwright-pytest": {
           "forks": 87,
@@ -53110,8 +53110,8 @@
         },
         "microsoft/playwright-python": {
           "forks": 1179,
-          "pushed_at": "2026-06-08T11:47:29Z",
-          "stars": 14733
+          "pushed_at": "2026-06-09T08:28:41Z",
+          "stars": 14735
         },
         "microsoft/playwright-vscode": {
           "forks": 111,
@@ -53171,7 +53171,7 @@
         "microsoft/promptflow": {
           "forks": 1101,
           "pushed_at": "2026-06-04T02:58:12Z",
-          "stars": 11144
+          "stars": 11143
         },
         "microsoft/prompty": {
           "forks": 117,
@@ -53206,7 +53206,7 @@
         "microsoft/pyright": {
           "forks": 1788,
           "pushed_at": "2026-06-06T11:58:01Z",
-          "stars": 15472
+          "stars": 15473
         },
         "microsoft/python-environment-tools": {
           "forks": 41,
@@ -53229,9 +53229,9 @@
           "stars": 940
         },
         "microsoft/qlib": {
-          "forks": 6960,
+          "forks": 6962,
           "pushed_at": "2026-04-22T07:08:01Z",
-          "stars": 44194
+          "stars": 44200
         },
         "microsoft/rDSN": {
           "forks": 209,
@@ -53246,7 +53246,7 @@
         "microsoft/rayfin": {
           "forks": 37,
           "pushed_at": "2026-06-08T19:57:16Z",
-          "stars": 445
+          "stars": 446
         },
         "microsoft/react-native-gallery": {
           "forks": 56,
@@ -53290,7 +53290,7 @@
         },
         "microsoft/rnx-kit": {
           "forks": 118,
-          "pushed_at": "2026-06-09T05:22:26Z",
+          "pushed_at": "2026-06-09T08:32:30Z",
           "stars": 1723
         },
         "microsoft/roosterjs": {
@@ -53331,7 +53331,7 @@
         "microsoft/semantic-kernel": {
           "forks": 4637,
           "pushed_at": "2026-06-08T16:39:19Z",
-          "stars": 28084
+          "stars": 28083
         },
         "microsoft/semantic-kernel-java": {
           "forks": 55,
@@ -53381,7 +53381,7 @@
         "microsoft/skills": {
           "forks": 287,
           "pushed_at": "2026-06-05T00:29:32Z",
-          "stars": 2520
+          "stars": 2521
         },
         "microsoft/skills-for-copilot-studio": {
           "forks": 68,
@@ -53391,7 +53391,7 @@
         "microsoft/skills-for-fabric": {
           "forks": 97,
           "pushed_at": "2026-06-07T11:25:19Z",
-          "stars": 430
+          "stars": 431
         },
         "microsoft/slngen": {
           "forks": 88,
@@ -53441,7 +53441,7 @@
         "microsoft/terminal": {
           "forks": 9330,
           "pushed_at": "2026-06-08T23:47:33Z",
-          "stars": 103522
+          "stars": 103527
         },
         "microsoft/terraform-provider-azuredevops": {
           "forks": 313,
@@ -53450,7 +53450,7 @@
         },
         "microsoft/testfx": {
           "forks": 296,
-          "pushed_at": "2026-06-09T06:03:20Z",
+          "pushed_at": "2026-06-09T09:00:25Z",
           "stars": 1017
         },
         "microsoft/tigertoolbox": {
@@ -53496,11 +53496,11 @@
         "microsoft/typescript-go": {
           "forks": 993,
           "pushed_at": "2026-06-09T02:40:22Z",
-          "stars": 25629
+          "stars": 25628
         },
         "microsoft/typespec": {
           "forks": 371,
-          "pushed_at": "2026-06-09T07:03:14Z",
+          "pushed_at": "2026-06-09T08:19:25Z",
           "stars": 5768
         },
         "microsoft/vc-ue-extensions": {
@@ -53516,7 +53516,7 @@
         "microsoft/vcpkg": {
           "forks": 7556,
           "pushed_at": "2026-06-09T02:02:04Z",
-          "stars": 27139
+          "stars": 27140
         },
         "microsoft/vcpkg-tool": {
           "forks": 351,
@@ -53544,9 +53544,9 @@
           "stars": 1036
         },
         "microsoft/vscode": {
-          "forks": 40309,
-          "pushed_at": "2026-06-09T06:40:25Z",
-          "stars": 186083
+          "forks": 40312,
+          "pushed_at": "2026-06-09T09:05:22Z",
+          "stars": 186086
         },
         "microsoft/vscode-anycode": {
           "forks": 44,
@@ -53600,8 +53600,8 @@
         },
         "microsoft/vscode-docs": {
           "forks": 5656,
-          "pushed_at": "2026-06-08T23:54:41Z",
-          "stars": 6536
+          "pushed_at": "2026-06-09T07:31:19Z",
+          "stars": 6535
         },
         "microsoft/vscode-dotnettools": {
           "forks": 46,
@@ -53616,7 +53616,7 @@
         "microsoft/vscode-extension-samples": {
           "forks": 3885,
           "pushed_at": "2026-06-02T20:35:54Z",
-          "stars": 10090
+          "stars": 10088
         },
         "microsoft/vscode-generator-code": {
           "forks": 255,
@@ -53640,7 +53640,7 @@
         },
         "microsoft/vscode-java-debug": {
           "forks": 419,
-          "pushed_at": "2026-06-09T07:00:33Z",
+          "pushed_at": "2026-06-09T08:25:46Z",
           "stars": 587
         },
         "microsoft/vscode-java-pack": {
@@ -53670,7 +53670,7 @@
         },
         "microsoft/vscode-languageserver-node": {
           "forks": 386,
-          "pushed_at": "2026-06-09T07:23:11Z",
+          "pushed_at": "2026-06-09T08:09:28Z",
           "stars": 1757
         },
         "microsoft/vscode-livepreview": {
@@ -53704,9 +53704,9 @@
           "stars": 356
         },
         "microsoft/vscode-mssql": {
-          "forks": 590,
+          "forks": 591,
           "pushed_at": "2026-06-09T00:35:08Z",
-          "stars": 1882
+          "stars": 1883
         },
         "microsoft/vscode-pgsql": {
           "forks": 28,
@@ -53725,7 +53725,7 @@
         },
         "microsoft/vscode-react-native": {
           "forks": 284,
-          "pushed_at": "2026-06-09T07:21:28Z",
+          "pushed_at": "2026-06-09T07:51:03Z",
           "stars": 2736
         },
         "microsoft/vscode-recipes": {
@@ -53751,7 +53751,7 @@
         "microsoft/vscode-textmate": {
           "forks": 127,
           "pushed_at": "2026-06-08T13:44:06Z",
-          "stars": 675
+          "stars": 676
         },
         "microsoft/vscode-typescript-next": {
           "forks": 48,
@@ -53801,7 +53801,7 @@
         "microsoft/waza": {
           "forks": 56,
           "pushed_at": "2026-06-06T12:08:53Z",
-          "stars": 985
+          "stars": 986
         },
         "microsoft/wil": {
           "forks": 289,
@@ -53811,7 +53811,7 @@
         "microsoft/win-dev-skills": {
           "forks": 12,
           "pushed_at": "2026-06-03T11:47:55Z",
-          "stars": 270
+          "stars": 271
         },
         "microsoft/win32metadata": {
           "forks": 144,
@@ -53854,9 +53854,9 @@
           "stars": 622
         },
         "microsoft/winget-pkgs": {
-          "forks": 7327,
-          "pushed_at": "2026-06-09T07:21:19Z",
-          "stars": 10670
+          "forks": 7328,
+          "pushed_at": "2026-06-09T08:54:05Z",
+          "stars": 10672
         },
         "microsoft/work-iq": {
           "forks": 89,
@@ -53880,7 +53880,7 @@
         },
         "microsoft/zerotrustassessment": {
           "forks": 159,
-          "pushed_at": "2026-06-09T05:59:30Z",
+          "pushed_at": "2026-06-09T08:04:28Z",
           "stars": 357
         }
       }
