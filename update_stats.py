@@ -58,6 +58,7 @@ AUTO_KEYWORD_TERMS: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("ONNX", ("onnx",)),
     ("OpenAI", ("openai",)),
     ("Copilot", ("copilot",)),
+    ("AI Engineering", ("ai engineering", "ai-engineering")),
     ("Phi", ("phi",)),
     ("PowerToys", ("powertoys", "power toys")),
     ("WinGet", ("winget",)),
@@ -555,11 +556,22 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
     ).lower()
     name_overrides = {
         "agent-framework": "ai-data",
+        "ai-engineering-coach": "developer-tools",
         "apsi": "security-identity",
+        "build-cli": "developer-tools",
+        "ccf": "security-identity",
         "david": "ai-data",
         "discovery": "ai-data",
+        "fasttrack": "developer-tools",
+        "just": "developer-tools",
+        "maker.js": "web-js",
+        "powerplatform-actions": "developer-tools",
         "syntheseus": "ai-data",
         "tools-for-health-data-anonymization": "security-identity",
+        "tsdoc": "dotnet-runtimes",
+        "typed-rest-client": "web-js",
+        "typescript": "dotnet-runtimes",
+        "typescript-go": "dotnet-runtimes",
         "xbox-godot-sample": "windows-desktop",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
@@ -611,7 +623,6 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
             "maui",
             "roslyn",
             "runtime",
-            "typescript",
         ),
         "developer-tools": (
             "playwright",
