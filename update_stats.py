@@ -71,6 +71,10 @@ AUTO_KEYWORD_TERMS: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("MCP", ("mcp", "model context protocol")),
     ("RAG", ("rag",)),
     ("LLM", ("llm",)),
+    ("Privacy", ("privacy", "anonymization", "private set intersection", "apsi")),
+    ("Computer Vision", ("computer vision", "vision models", "synthetic data", "david")),
+    ("Scientific AI", ("scientific research", "retrosynthetic", "syntheseus", "microsoft discovery")),
+    ("Xbox", ("xbox", "gdk", "gameinput", "playfab")),
 )
 SUBSTRING_KEYWORDS = {"Azure", ".NET", "C#", "TypeScript", "JavaScript", "VS Code", "Visual Studio", "Windows"}
 
@@ -549,6 +553,20 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
             " ".join(repo.get("topics") or []),
         ]
     ).lower()
+    name_overrides = {
+        "agent-framework": "ai-data",
+        "apsi": "security-identity",
+        "david": "ai-data",
+        "discovery": "ai-data",
+        "syntheseus": "ai-data",
+        "tools-for-health-data-anonymization": "security-identity",
+        "xbox-godot-sample": "windows-desktop",
+    }
+    clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
+    name_override = name_overrides.get(repo["name"].lower())
+    if name_override:
+        return clusters_by_key[name_override]
+
     override_terms = {
         "security-identity": (
             "azuread",
@@ -606,7 +624,6 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
             "web",
         ),
     }
-    clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     for key, terms in override_terms.items():
         if any(term_matches(haystack, term) for term in terms):
             return clusters_by_key[key]
@@ -788,8 +805,7 @@ def github_cell(repo: dict[str, Any], include_activity: bool = False) -> str:
       <span class="fork-count">⑂ {fmt_number(repo["forks"])}</span>
       <span class="commit-count">⟳ {fmt_number(repo.get("commits"))}</span>
     </div>
-    <span class="last-updated">⏱ {fmt_date(repo["pushed_at"])}</span>
-    {activity}
+    <span class="last-updated">⏱ {fmt_date(repo["pushed_at"])}</span>{activity}
   </td>"""
 
 
