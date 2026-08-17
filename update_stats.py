@@ -77,6 +77,8 @@ AUTO_KEYWORD_TERMS: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("Computer Vision", ("computer vision", "vision models", "synthetic data", "david")),
     ("Scientific AI", ("scientific research", "retrosynthetic", "syntheseus", "microsoft discovery")),
     ("Xbox", ("xbox", "gdk", "gameinput", "playfab")),
+    ("Skills", ("skill", "skills", "skillopt")),
+    ("Multimodal", ("multimodal", "vision-language")),
 )
 SUBSTRING_KEYWORDS = {"Azure", ".NET", "C#", "TypeScript", "JavaScript", "VS Code", "Visual Studio", "Windows"}
 
@@ -566,6 +568,9 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "fasttrack": "developer-tools",
         "jericho": "ai-data",
         "just": "developer-tools",
+        "mage": "ai-data",
+        "resource2skill": "ai-data",
+        "webwright": "ai-data",
         "maker.js": "web-js",
         "powerplatform-actions": "developer-tools",
         "syntheseus": "ai-data",
