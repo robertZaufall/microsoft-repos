@@ -562,6 +562,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "ai-engineering-coach": "developer-tools",
         "amplifier": "ai-data",
         "apsi": "security-identity",
+        "bcquality": "developer-tools",
         "build-cli": "developer-tools",
         "ccf": "security-identity",
         "david": "ai-data",
