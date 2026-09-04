@@ -562,6 +562,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "ai-engineering-coach": "developer-tools",
         "amplifier": "ai-data",
         "apsi": "security-identity",
+        "azure-devops-auth-samples": "security-identity",
         "bcquality": "developer-tools",
         "build-cli": "developer-tools",
         "ccf": "security-identity",
@@ -586,6 +587,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "ufo": "ai-data",
         "typescript": "dotnet-runtimes",
         "typescript-go": "dotnet-runtimes",
+        "vscode-remote-release": "developer-tools",
         "xbox-godot-sample": "windows-desktop",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
