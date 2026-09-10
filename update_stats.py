@@ -589,6 +589,16 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "typescript-go": "dotnet-runtimes",
         "vscode-remote-release": "developer-tools",
         "xbox-godot-sample": "windows-desktop",
+        # Evidence 2026-09-10: Cordova browser simulator; "ml" substring of language HTML false-positive to ai-data
+        "cordova-simulate": "web-js",
+        # Evidence 2026-09-10: SQL Networking CSS support tools, not AI/data platforms (sql override_term)
+        "css_sql_networking_tools": "developer-tools",
+        # Evidence 2026-09-10: AL language guidelines for Business Central (SCSS false-positive to web-js)
+        "alguidelines": "developer-tools",
+        # Evidence 2026-09-10: Hololens/MRTK graphics tools; defaulted to developer-tools
+        "mixedreality-graphicstools-unity": "windows-desktop",
+        # Evidence 2026-09-10: Power Platform / D365 demos; PowerShell "shell" false-positive to windows-desktop
+        "federal-business-applications": "azure-cloud",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
