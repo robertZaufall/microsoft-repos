@@ -599,6 +599,8 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "mixedreality-graphicstools-unity": "windows-desktop",
         # Evidence 2026-09-10: Power Platform / D365 demos; PowerShell "shell" false-positive to windows-desktop
         "federal-business-applications": "azure-cloud",
+        # Evidence 2026-09-16: Vision-Language-Action / latent action robotics research (empty GH description falls through to developer-tools)
+        "villa-x": "ai-data",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
