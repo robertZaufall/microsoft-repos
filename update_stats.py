@@ -601,6 +601,14 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "federal-business-applications": "azure-cloud",
         # Evidence 2026-09-16: Vision-Language-Action / latent action robotics research (empty GH description falls through to developer-tools)
         "villa-x": "ai-data",
+        # Evidence 2026-09-22: "ui" substring of "guidelines" false-positive to web-js (same pattern as alguidelines)
+        "rust-guidelines": "developer-tools",
+        # Evidence 2026-09-22: empty GH description; official inference runtime for VibeVoice-ASR-BitNet speech recognition (sibling VibeVoice → ai-data)
+        "vibeasr.cpp": "ai-data",
+        # Evidence 2026-09-22: empty GH description; embeddable durable execution runtime for Rust (sibling durabletask-go → azure-cloud)
+        "duroxide": "azure-cloud",
+        # Evidence 2026-09-22: Sysinternals ZoomIt desktop utility for macOS (sibling PowerToys → windows-desktop)
+        "zoomitformac": "windows-desktop",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
