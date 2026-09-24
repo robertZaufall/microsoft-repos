@@ -609,6 +609,10 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "duroxide": "azure-cloud",
         # Evidence 2026-09-22: Sysinternals ZoomIt desktop utility for macOS (sibling PowerToys → windows-desktop)
         "zoomitformac": "windows-desktop",
+        # Evidence 2026-09-24: "entra" substring of "central" false-positive to security-identity (customer/partner MicroHack labs hub)
+        "microhack": "developer-tools",
+        # Evidence 2026-09-24: "entra" substring of "Business Central" false-positive to security-identity (sibling BCQuality → developer-tools)
+        "bcapps": "developer-tools",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
