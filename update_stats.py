@@ -613,6 +613,8 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "microhack": "developer-tools",
         # Evidence 2026-09-24: "entra" substring of "Business Central" false-positive to security-identity (sibling BCQuality → developer-tools)
         "bcapps": "developer-tools",
+        # Evidence 2026-09-26: empty GH description falls through to developer-tools; NeurIPS'26 agent-harness optimizer (sibling SkillOpt → ai-data)
+        "autosaddler": "ai-data",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
