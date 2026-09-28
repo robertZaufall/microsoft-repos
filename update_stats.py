@@ -615,6 +615,12 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "bcapps": "developer-tools",
         # Evidence 2026-09-26: empty GH description falls through to developer-tools; NeurIPS'26 agent-harness optimizer (sibling SkillOpt → ai-data)
         "autosaddler": "ai-data",
+        # Evidence 2026-09-28: "ai" substring of "containment" false-positive to ai-data; sandboxed execution / isolation container (security)
+        "mxc": "security-identity",
+        # Evidence 2026-09-28: agent-skills eval CLI; "cli" keyword ties to developer-tools over ai-data (sibling skills/Resource2Skill → ai-data)
+        "waza": "ai-data",
+        # Evidence 2026-09-28: PostgreSQL durable execution for Azure HorizonDB (sibling duroxide/durabletask-go → azure-cloud); ai-pipelines topics pull to ai-data
+        "pg_durable": "azure-cloud",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
