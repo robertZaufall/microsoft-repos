@@ -621,6 +621,16 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "waza": "ai-data",
         # Evidence 2026-09-28: PostgreSQL durable execution for Azure HorizonDB (sibling duroxide/durabletask-go → azure-cloud); ai-pipelines topics pull to ai-data
         "pg_durable": "azure-cloud",
+        # Evidence 2026-09-30: "ui" substring of "guidance" false-positive to web-js (same pattern as rust-guidelines/alguidelines); Dynamics 365 patterns/practices hub (sibling BCApps/alguidelines → developer-tools)
+        "dynamics365patternspractices": "developer-tools",
+        # Evidence 2026-09-30: "ai" substring of "evaluation" false-positive to ai-data; ITU-T P.808 speech quality crowdsourcing toolkit, not ML platforms
+        "p.808": "developer-tools",
+        # Evidence 2026-09-30: Durable Functions / Durable Task distributed workflow engine (sibling duroxide/pg_durable/durabletask-go → azure-cloud); C# language score pulls to dotnet-runtimes
+        "durabletask-netherite": "azure-cloud",
+        # Evidence 2026-09-30: multi-agent systems architecture guide (sibling CAIRA → ai-data); azure topic override_term beats agent/generative-ai meaning
+        "multi-agent-reference-architecture": "ai-data",
+        # Evidence 2026-09-30: Office 365 + Azure AD / OIDC Moodle auth plugins (topics oidc); "azure" in "Azure Active Directory" override_term pulls to azure-cloud over security-identity
+        "o365-moodle": "security-identity",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
