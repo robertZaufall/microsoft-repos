@@ -631,6 +631,18 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "multi-agent-reference-architecture": "ai-data",
         # Evidence 2026-09-30: Office 365 + Azure AD / OIDC Moodle auth plugins (topics oidc); "azure" in "Azure Active Directory" override_term pulls to azure-cloud over security-identity
         "o365-moodle": "security-identity",
+        # Evidence 2026-10-04: vision GUI-agent screen parser; "tool"/"ui" keyword tie picks developer-tools over ai-data("agent") by cluster order
+        "omniparser": "ai-data",
+        # Evidence 2026-10-04: NeurIPS'22 semi-supervised ML codebase; "language" substring of topic natural-language-processing false-positive to dotnet-runtimes
+        "semi-supervised-learning": "ai-data",
+        # Evidence 2026-10-04: Knowledge Base augmented Language Model paper code; "language" in description ties with ai-data("model") and earlier cluster wins
+        "kblam": "ai-data",
+        # Evidence 2026-10-04: LLM prompt asset format / evaluation tooling (topics generative-ai/llms); developer-tools("debug","developer") ties ai-data("ai","llm") by order
+        "prompty": "ai-data",
+        # Evidence 2026-10-04: shift-window 3D vision transformer (empty topics); falls through to developer-tools default with score 0
+        "swin3d": "ai-data",
+        # Evidence 2026-10-04: multi-agent automation accelerator (sibling multi-agent-reference-architecture/CAIRA → ai-data); azure override_term beats agent meaning
+        "multi-agent-custom-automation-engine-solution-accelerator": "ai-data",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
