@@ -576,7 +576,6 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "mcp-for-beginners": "ai-data",
         "resource2skill": "ai-data",
         "skills": "ai-data",
-        "webwright": "ai-data",
         "maker.js": "web-js",
         "powerplatform-actions": "developer-tools",
         "syntheseus": "ai-data",
@@ -643,6 +642,14 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "swin3d": "ai-data",
         # Evidence 2026-10-04: multi-agent automation accelerator (sibling multi-agent-reference-architecture/CAIRA → ai-data); azure override_term beats agent meaning
         "multi-agent-custom-automation-engine-solution-accelerator": "ai-data",
+        # Evidence 2026-10-06: Webwright renamed upstream to CUAWright (README "Webwright is now CUAWright"); browser+desktop computer-use agent framework, old "webwright" override no longer matched and it fell to web-js
+        "cuawright": "ai-data",
+        # Evidence 2026-10-06: "ml" substring of language HTML false-positive to ai-data; Zero Trust Assessment PowerShell module checks tenant security configuration (Entra/Defender pillars)
+        "zerotrustassessment": "security-identity",
+        # Evidence 2026-10-06: empty topics, score-0 fallthrough to developer-tools; ICASSP Acoustic Echo Cancellation challenge with AEC model training datasets and AECMOS metric (speech-enhancement ML research)
+        "aec-challenge": "ai-data",
+        # Evidence 2026-10-06: micro-VM sandbox for untrusted workloads with hardware-enforced isolation, built on OpenVMM (siblings mxc/litebox/openvmm → security-identity); "agentic" topics pull to ai-data
+        "nvx": "security-identity",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
