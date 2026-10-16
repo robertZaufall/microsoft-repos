@@ -38,6 +38,17 @@ from urllib.request import Request, urlopen
 
 ORG = "microsoft"
 MIN_STARS = 201
+# Repos that qualify by catalog rules but are missing from GitHub search for the
+# combined org+stars+pushed query. Fetched via GET /repos/{org}/{name}.
+SEARCH_INDEX_SUPPLEMENT: tuple[str, ...] = (
+    "AutoSaddler",
+    "BCApps",
+    "Mage",
+    "MicroHack",
+    "VibeASR.cpp",
+    "WinDbg-Samples",
+    "Zoomit-Mac",
+)
 TOP_PER_CLUSTER = 0
 TRACTION_DAYS = 30
 HISTORY_DAYS = 140
@@ -461,8 +472,50 @@ def fetch_repositories(client: GitHubClient, org: str, min_stars: int, pushed_cu
     query = f"org:{org} stars:>={min_stars} pushed:>={pushed_cutoff.date().isoformat()} fork:false archived:false"
     repos = fetch_search_repositories(client, query, pushed_cutoff)
     repos = [repo for repo in repos if repo["stars"] >= min_stars]
+    seen = {repo["full_name"].lower() for repo in repos}
+    for name in SEARCH_INDEX_SUPPLEMENT:
+        repo = fetch_named_repository(client, org, name, min_stars, pushed_cutoff)
+        if repo is None:
+            continue
+        key = repo["full_name"].lower()
+        if key in seen:
+            continue
+        repos.append(repo)
+        seen.add(key)
+        print(f"search-index supplement: added {repo['full_name']} ({repo['stars']}★)")
     repos.sort(key=lambda repo: repo["stars"], reverse=True)
     return repos
+
+
+def fetch_named_repository(
+    client: GitHubClient,
+    org: str,
+    name: str,
+    min_stars: int,
+    pushed_cutoff: datetime,
+) -> dict[str, Any] | None:
+    """Fetch one repo by name; used for known GitHub search-index misses."""
+    try:
+        data, _ = client.request(f"/repos/{org}/{name}")
+    except RuntimeError as exc:
+        print(f"  warning: search-index supplement {org}/{name}: {exc}", file=sys.stderr)
+        return None
+    owner = ((data.get("owner") or {}).get("login") or "").lower()
+    if owner != org.lower():
+        print(
+            f"search-index supplement: skip {org}/{name} "
+            f"(owner is {owner or 'unknown'}, not {org})",
+            file=sys.stderr,
+        )
+        return None
+    if data.get("fork") or data.get("archived") or data.get("private"):
+        return None
+    if int(data.get("stargazers_count") or 0) < min_stars:
+        return None
+    pushed_at = data.get("pushed_at") or ""
+    if not pushed_at or iso_to_datetime(pushed_at) < pushed_cutoff:
+        return None
+    return normalize_repo(data)
 
 
 def fetch_extra_section_repositories(client: GitHubClient, section: SourceSection, pushed_cutoff: datetime) -> list[dict[str, Any]]:
@@ -607,7 +660,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         # Evidence 2026-09-22: empty GH description; embeddable durable execution runtime for Rust (sibling durabletask-go → azure-cloud)
         "duroxide": "azure-cloud",
         # Evidence 2026-09-22: Sysinternals ZoomIt desktop utility for macOS (sibling PowerToys → windows-desktop)
-        "zoomitformac": "windows-desktop",
+        "zoomit-mac": "windows-desktop",
         # Evidence 2026-09-24: "entra" substring of "central" false-positive to security-identity (customer/partner MicroHack labs hub)
         "microhack": "developer-tools",
         # Evidence 2026-09-24: "entra" substring of "Business Central" false-positive to security-identity (sibling BCQuality → developer-tools)
@@ -650,6 +703,8 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "aec-challenge": "ai-data",
         # Evidence 2026-10-06: micro-VM sandbox for untrusted workloads with hardware-enforced isolation, built on OpenVMM (siblings mxc/litebox/openvmm → security-identity); "agentic" topics pull to ai-data
         "nvx": "security-identity",
+        # Evidence 2026-10-16: WinDbg debugger sample extensions/scripts (sibling WinDbg → developer-tools); revived after push-aged gap
+        "windbg-samples": "developer-tools",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
     name_override = name_overrides.get(repo["name"].lower())
