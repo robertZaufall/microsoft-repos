@@ -618,6 +618,10 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "amplifier": "ai-data",
         "apsi": "security-identity",
         "azure-devops-auth-samples": "security-identity",
+        # Evidence 2026-11-05: BioEmu2 (empty description) is a Microsoft Research
+        # AI for Science foundation model for biomolecular structure/dynamics;
+        # it fell to Developer Tools via the generic Python language signal.
+        "bioemu2": "ai-data",
         "bcquality": "developer-tools",
         "build-cli": "developer-tools",
         "ccf": "security-identity",
